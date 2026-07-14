@@ -1,13 +1,13 @@
 #!/usr/bin/env node
-// CLI do @vinci/news-digest-store.
+// CLI da coleção earnings-analysis/.
 //
 // Comandos:
-//   digest publish   grava um digest (usado pelos skills no fim da run)
-//   digest get       lê um digest de um dia específico (granularidade diária)
-//   digest list      lista os dias disponíveis
-//   digest latest    mostra o dia mais recente
-//   digest path      imprime o caminho do diretório de um dia
-//   digest reindex   recria o index.json varrendo digests/
+//   earnings publish   grava uma leitura (usado pelo skill analise-de-resultados-v2)
+//   earnings get       lê uma leitura de uma empresa/período
+//   earnings list      lista os registros disponíveis
+//   earnings latest    mostra o registro mais recente
+//   earnings path      imprime o caminho do diretório de uma empresa/período
+//   earnings reindex   recria o index.json varrendo earnings-analysis/
 //
 // Zero dependências. `git` só é invocado se --commit/--push forem passados.
 
@@ -17,13 +17,13 @@ import path from 'node:path';
 import process from 'node:process';
 import {
   publish, get, getMeta, list, latest, reindex,
-  dayDir, dayRelPath, STORE_ROOT, KINDS,
-} from '../lib/news-digest-store.js';
+  recordDir, recordRelPath, STORE_ROOT, READINGS,
+} from '../lib/earnings-store.js';
 
-// STORE_ROOT is the news-digests/ collection dir; git commands run from the
-// repo root one level up (the equities-store checkout).
+// STORE_ROOT is the earnings-analysis/ collection dir; git commands run from
+// the repo root one level up (the equities-store checkout).
 const REPO_ROOT = path.resolve(STORE_ROOT, '..');
-const COLLECTION = 'news-digests';
+const COLLECTION = 'earnings-analysis';
 
 // ------------------------------ parse de flags ------------------------------
 
@@ -36,7 +36,7 @@ function parseArgs(argv) {
       const key = a.slice(2);
       const next = argv[i + 1];
       if (next === undefined || next.startsWith('--')) {
-        flags[key] = true; // booleana
+        flags[key] = true;
       } else {
         flags[key] = next;
         i++;
@@ -79,15 +79,14 @@ function runGit(args) {
   return r.stdout;
 }
 
-function gitCommitPush({ date, kind, commit, push, branch }) {
-  const relDir = path.posix.join(COLLECTION, dayRelPath(date));
+function gitCommitPush({ company, period, reading, commit, push, branch }) {
+  const relDir = path.posix.join(COLLECTION, recordRelPath(company, period));
   runGit(['add', relDir, path.posix.join(COLLECTION, 'index.json')]);
-  // Nada staged? evita erro de "nothing to commit".
   const status = spawnSync('git', ['diff', '--cached', '--quiet'], { cwd: REPO_ROOT });
   if (status.status === 0) return { committed: false, pushed: false };
 
   if (commit || push) {
-    runGit(['commit', '-m', `digest(${kind}): ${date}`]);
+    runGit(['commit', '-m', `earnings(${reading}): ${company} ${period}`]);
   }
   if (push) {
     const args = ['push'];
@@ -101,13 +100,13 @@ function gitCommitPush({ date, kind, commit, push, branch }) {
 // ------------------------------ comandos ------------------------------------
 
 async function cmdPublish(flags) {
-  const date = flags.date;
-  const kind = flags.kind || 'full';
-  if (!date) fail('--date YYYY-MM-DD é obrigatório.');
-  if (!KINDS.includes(kind)) fail(`--kind deve ser um de: ${KINDS.join(', ')}.`);
+  const { company, period } = flags;
+  const reading = flags.reading || 'primeira';
+  if (!company) fail('--company é obrigatório (o slug de fichas/<slug>.md, ex.: vibra).');
+  if (!period) fail('--period é obrigatório (ex.: 2026Q1 para 1T26).');
+  if (!READINGS.includes(reading)) fail(`--reading deve ser um de: ${READINGS.join(', ')}.`);
 
   const md = await readMaybeFileOrStdin(flags.md, flags.md === true || flags.stdin === 'md');
-  const html = await readMaybeFileOrStdin(flags.html, flags.html === true || flags.stdin === 'html');
 
   let meta;
   if (flags.meta) {
@@ -115,12 +114,12 @@ async function cmdPublish(flags) {
     meta = JSON.parse(raw);
   }
 
-  const res = await publish({ date, kind, md, html, meta });
+  const res = await publish({ company, period, reading, md, meta });
   process.stdout.write(`gravado: ${path.relative(REPO_ROOT, res.dir)} [${res.files.join(', ')}]\n`);
 
   if (flags.commit || flags.push) {
     const g = gitCommitPush({
-      date, kind,
+      company, period, reading,
       commit: !!flags.commit, push: !!flags.push,
       branch: typeof flags.push === 'string' ? flags.push : flags.branch,
     });
@@ -129,13 +128,16 @@ async function cmdPublish(flags) {
 }
 
 async function cmdGet(positional, flags) {
-  const date = positional[0] || flags.date;
-  if (!date) fail('informe a data: digest get YYYY-MM-DD [--kind full|incremental] [--format md|html|meta]');
-  const kind = flags.kind || 'full';
+  const company = positional[0] || flags.company;
+  const period = positional[1] || flags.period;
+  if (!company || !period) {
+    fail('informe empresa e período: earnings get <company> <period> [--reading primeira|segunda|terceira] [--format md|meta]');
+  }
+  const reading = flags.reading || 'primeira';
   const format = flags.format || 'md';
-  const content = await get(date, { kind, format });
+  const content = await get(company, period, { reading, format });
   if (content == null) {
-    fail(`não encontrado: ${date} (kind=${kind}, format=${format}).`);
+    fail(`não encontrado: ${company} ${period} (reading=${reading}, format=${format}).`);
   }
   if (format === 'meta') {
     process.stdout.write(JSON.stringify(content, null, 2) + '\n');
@@ -146,61 +148,63 @@ async function cmdGet(positional, flags) {
 
 async function cmdList(flags) {
   const rows = await list({
+    company: flags.company,
+    reading: flags.reading,
     limit: flags.limit ? Number(flags.limit) : undefined,
-    kind: flags.kind,
   });
   if (flags.json) {
     process.stdout.write(JSON.stringify(rows, null, 2) + '\n');
     return;
   }
   if (rows.length === 0) {
-    process.stdout.write('(nenhum digest gravado ainda)\n');
+    process.stdout.write('(nenhuma análise gravada ainda)\n');
     return;
   }
   for (const r of rows) {
-    process.stdout.write(`${r.date}  [${(r.runs || []).join(', ') || '-'}]  ${r.path}\n`);
+    process.stdout.write(`${r.company}  ${r.period}  [${(r.readings || []).join(', ') || '-'}]  ${r.path}\n`);
   }
 }
 
 async function cmdLatest(flags) {
-  const r = await latest({ kind: flags.kind });
-  if (!r) fail('nenhum digest gravado ainda.');
+  const r = await latest({ company: flags.company, reading: flags.reading });
+  if (!r) fail('nenhuma análise gravada ainda.');
   if (flags.json) {
     process.stdout.write(JSON.stringify(r, null, 2) + '\n');
   } else {
-    process.stdout.write(`${r.date}  [${(r.runs || []).join(', ')}]  ${r.path}\n`);
+    process.stdout.write(`${r.company}  ${r.period}  [${(r.readings || []).join(', ')}]  ${r.path}\n`);
   }
 }
 
 async function cmdPath(positional, flags) {
-  const date = positional[0] || flags.date;
-  if (!date) fail('informe a data: digest path YYYY-MM-DD');
-  process.stdout.write((flags.abs ? dayDir(date) : dayRelPath(date)) + '\n');
+  const company = positional[0] || flags.company;
+  const period = positional[1] || flags.period;
+  if (!company || !period) fail('informe empresa e período: earnings path <company> <period>');
+  process.stdout.write((flags.abs ? recordDir(company, period) : recordRelPath(company, period)) + '\n');
 }
 
 async function cmdReindex() {
   const idx = await reindex();
-  process.stdout.write(`index reconstruído: ${idx.digests.length} dia(s).\n`);
+  process.stdout.write(`index reconstruído: ${idx.records.length} registro(s).\n`);
 }
 
-const HELP = `@vinci/news-digest-store — CLI
+const HELP = `earnings-analysis — CLI
 
 Uso:
-  digest publish --date YYYY-MM-DD --kind full|incremental [--md FILE|--stdin md]
-                 [--html FILE] [--meta FILE] [--commit] [--push [BRANCH]]
-  digest get YYYY-MM-DD [--kind full|incremental] [--format md|html|meta]
-  digest list [--kind K] [--limit N] [--json]
-  digest latest [--kind K] [--json]
-  digest path YYYY-MM-DD [--abs]
-  digest reindex
+  earnings publish --company vibra --period 2026Q1 --reading primeira|segunda|terceira
+                   [--md FILE|--stdin md] [--meta FILE] [--commit] [--push [BRANCH]]
+  earnings get <company> <period> [--reading primeira|segunda|terceira] [--format md|meta]
+  earnings list [--company C] [--reading R] [--limit N] [--json]
+  earnings latest [--company C] [--reading R] [--json]
+  earnings path <company> <period> [--abs]
+  earnings reindex
 
 Exemplos:
-  # gravar o digest completo do dia e dar push (usado pelos skills)
-  digest publish --date 2026-07-14 --kind full --md full.md --html full.html \\
-                 --meta meta.json --push
+  # gravar a primeira leitura do 1T26 da Vibra e dar push (usado pelo skill)
+  earnings publish --company vibra --period 2026Q1 --reading primeira \\
+                   --md analise.md --meta meta.json --push
 
-  # outro agente lê o clipping de um dia específico
-  digest get 2026-07-14 --kind full --format md
+  # outro agente lê a segunda leitura da Equatorial no 4T25
+  earnings get equatorial 2025Q4 --reading segunda
 `;
 
 async function main() {
@@ -221,7 +225,7 @@ async function main() {
         process.stdout.write(HELP);
         return;
       default:
-        fail(`comando desconhecido: "${cmd}". Rode "digest help".`);
+        fail(`comando desconhecido: "${cmd}". Rode "earnings help".`);
     }
   } catch (err) {
     fail(err.message);

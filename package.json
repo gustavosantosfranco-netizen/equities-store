@@ -1,26 +1,28 @@
 {
   "name": "equities-store",
-  "version": "1.0.0",
-  "description": "Repositório versionado dos digests de notícias gerados pelos skills news-inbox-digest e news-inbox-digest-incremental. Estrutura por data, CLI zero-dependência para gravar/ler, consumível por outros agentes.",
+  "version": "2.0.0",
+  "description": "Repositório versionado do output de skills de equities: digests de notícias (news-inbox-digest[-incremental]) e análises de resultado (analise-de-resultados-v2). Duas coleções, cada uma com granularidade própria, CLI zero-dependência para gravar/ler, consumível por outros agentes.",
   "type": "module",
   "bin": {
-    "digest": "./bin/digest.js"
+    "digest": "./bin/digest.js",
+    "earnings": "./bin/earnings.js"
   },
   "exports": {
-    ".": "./lib/store.js"
+    "./news-digests": "./lib/news-digest-store.js",
+    "./earnings": "./lib/earnings-store.js"
   },
   "files": [
     "bin",
     "lib",
-    "digests",
-    "index.json",
+    "news-digests",
+    "earnings-analysis",
     "README.md"
   ],
   "engines": {
     "node": ">=18"
   },
   "scripts": {
-    "reindex": "node bin/digest.js reindex",
+    "reindex": "node bin/digest.js reindex && node bin/earnings.js reindex",
     "test": "node --test"
   },
   "license": "UNLICENSED",

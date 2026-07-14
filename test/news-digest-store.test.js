@@ -5,7 +5,7 @@ import path from 'node:path';
 import {
   normalizeDate, dayRelPath, publish, get, getMeta, list, latest, reindex,
   DIGESTS_DIR, INDEX_FILE,
-} from '../lib/store.js';
+} from '../lib/news-digest-store.js';
 
 // Os testes gravam em datas de teste (ano 1900) e limpam ao final.
 const TEST_DATES = ['1900-01-02', '1900-01-03'];
