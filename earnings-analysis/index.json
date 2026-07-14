@@ -1,4 +1,14 @@
 {
-  "updatedAt": null,
-  "records": []
+  "updatedAt": "2026-07-14T20:42:26.000Z",
+  "records": [
+    {
+      "company": "b3",
+      "period": "2026Q1",
+      "path": "b3/2026Q1",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-07-14T20:42:26.000Z"
+    }
+  ]
 }

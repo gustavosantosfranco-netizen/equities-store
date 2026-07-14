@@ -1,0 +1,16 @@
+{
+  "company": "b3",
+  "period": "2026Q1",
+  "readings": {
+    "primeira": {
+      "ticker": "B3SA3",
+      "consenso": "indisponível",
+      "revisaoLucro": {
+        "anoCorrente": "+2% a +4%",
+        "anoSubsequente": "0% a +2%"
+      },
+      "generatedAt": "2026-07-14T20:42:26.000Z",
+      "file": "primeira.md"
+    }
+  }
+}
