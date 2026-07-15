@@ -1,0 +1,16 @@
+{
+  "company": "rede_dor",
+  "period": "2026Q1",
+  "readings": {
+    "primeira": {
+      "ticker": "RDOR3",
+      "consenso": "casa (sem sell-side/Bloomberg anexado)",
+      "revisaoLucro": {
+        "anoCorrente": "-3% a -6%",
+        "anoSubsequente": "-1% a -3%"
+      },
+      "generatedAt": "2026-07-15T22:59:05.498Z",
+      "file": "primeira.md"
+    }
+  }
+}
