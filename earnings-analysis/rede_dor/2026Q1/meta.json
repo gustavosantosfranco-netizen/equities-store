@@ -4,12 +4,12 @@
   "readings": {
     "primeira": {
       "ticker": "RDOR3",
-      "consenso": "nao_fornecido (comparacao vs. estimativa da casa)",
+      "consenso": "casa (sem consenso externo anexado)",
       "revisaoLucro": {
-        "anoCorrente": "-2% a -5%",
-        "anoSubsequente": "~flat a -2%"
+        "anoCorrente": "-2% a -4%",
+        "anoSubsequente": "~estável a -2%"
       },
-      "generatedAt": "2026-07-15T23:19:12.544Z",
+      "generatedAt": "2026-07-16T01:35:20.856Z",
       "file": "primeira.md"
     }
   }
