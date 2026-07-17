@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-17",
+  "runs": {
+    "full": {
+      "window": "12h",
+      "mailbox": "equitiesvc@gmail.com",
+      "recipients": [
+        "equities@vincicompass.com",
+        "mlins@vincicompass.com"
+      ],
+      "itemCount": 6,
+      "tickers": [
+        "BVN",
+        "VIST",
+        "EC",
+        "VAMO3",
+        "PLPL3",
+        "CRDT"
+      ],
+      "date": "2026-07-17",
+      "generatedAt": "2026-07-17T11:26:06.116Z",
+      "files": {
+        "md": "full.md",
+        "html": "full.html"
+      }
+    }
+  }
+}
