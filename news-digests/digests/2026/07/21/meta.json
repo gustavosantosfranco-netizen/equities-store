@@ -34,6 +34,21 @@
         "md": "full.md",
         "html": "full.html"
       }
+    },
+    "incremental": {
+      "since": "2026-07-21T11:15:00.000Z",
+      "sinceNote": "Fallback usado: rascunho do 1º digest de hoje não foi localizado na busca de drafts do Gmail no momento da execução; aplicado fallback 08:15 BRT / 11:15 UTC. Posteriormente confirmado via equities-store que o digest completo rodou às 2026-07-21T11:51:28.905Z (generatedAt em news-digests/digests/2026/07/21/meta.json); sobreposição de conteúdo checada manualmente contra full.md — nenhuma das 5 histórias deste incremental aparece no full.md.",
+      "itemCount": 5,
+      "tickers": [
+        "CPFE3",
+        "CPLE6",
+        "JSLG3"
+      ],
+      "generatedAt": "2026-07-21T11:54:46.980Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
     }
   }
 }
