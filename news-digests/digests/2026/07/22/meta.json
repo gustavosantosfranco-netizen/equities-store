@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-22",
+  "runs": {
+    "incremental": {
+      "date": "2026-07-22",
+      "runs": {
+        "incremental": {
+          "generatedAt": "2026-07-22T11:50:00Z",
+          "since": "2026-07-22T11:15:00Z",
+          "sinceNote": "fallback 08:15 BRT — no first digest draft found today (2026-07-22); most recent prior digest draft was from 2026-07-16",
+          "window": "since_epoch",
+          "mailbox": "equitiesvc@gmail.com",
+          "recipients": [
+            "equities@vincicompass.com",
+            "mlins@vincicompass.com"
+          ],
+          "itemCount": 9,
+          "tickers": [
+            "VALE3",
+            "EMBR3",
+            "TAEE11",
+            "ENGI11",
+            "ALUP11",
+            "ELET3",
+            "SBSP3",
+            "VIVT3",
+            "PETR4",
+            "PRIO3",
+            "HYPE3",
+            "RDOR3",
+            "ONCO3"
+          ],
+          "files": {
+            "md": "incremental.md",
+            "html": "incremental.html"
+          }
+        }
+      },
+      "generatedAt": "2026-07-22T12:06:57.322Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
