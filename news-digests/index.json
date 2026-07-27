@@ -1,13 +1,14 @@
 {
-  "updatedAt": "2026-07-27T11:32:50.446Z",
+  "updatedAt": "2026-07-27T12:01:41.655Z",
   "digests": [
     {
       "date": "2026-07-27",
       "path": "digests/2026/07/27",
       "runs": [
-        "full"
+        "full",
+        "incremental"
       ],
-      "updatedAt": "2026-07-27T11:32:50.446Z"
+      "updatedAt": "2026-07-27T12:01:41.655Z"
     },
     {
       "date": "2026-07-23",

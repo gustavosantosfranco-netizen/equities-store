@@ -1,0 +1,41 @@
+# Digest de Notícias — 27/07/2026 (incremental, desde 08:32 BRT)
+
+## 1. Resumo executivo
+Nota de correção de processo: nenhum rascunho do primeiro digest de hoje foi localizado no Gmail, então uma primeira tentativa deste incremental usou um corte de fallback (08:15 BRT). Uma checagem no repositório equities-store mostrou que o primeiro digest foi de fato gerado às 08:32:50 BRT (11:32:50 UTC) e já está publicado — o corte correto é esse. Na janela seguinte (~08:32–08:50 BRT), duas novidades genuinamente novas chegaram à caixa: um temporal com rajadas de até 160 km/h derrubou 54 torres de transmissão e mais de 250 postes de distribuição da CPFL Paulista no interior de SP, e a Smart Fit aprovou emissão de até R$1,25 bilhão em debêntures para refinanciar dívida. Como pano de fundo, uma nota da BTG sinaliza cautela para o setor bancário no 2T26 por inadimplência em alta.
+
+**Destaques desde o primeiro digest:**
+- CPFL Paulista: temporal com ventos de até 160 km/h derruba 54 torres de transmissão e mais de 250 postes de distribuição em SP
+- Smart Fit aprova emissão de até R$1,25 bilhão em debêntures para refinanciar dívida
+
+## 2. Destaques
+
+### Utilities
+
+**CPFL Paulista: temporal derruba 54 torres de transmissão e mais de 250 postes de distribuição em SP** — CPFE3
+- Resumo: Rajadas de vento de até 160 km/h (medição do IAC), na madrugada de 24/07, derrubaram 54 torres de transmissão e mais de 250 postes da rede de distribuição da CPFL Paulista no interior de São Paulo, segundo clipping da BTG (fonte original: MegaWhat).
+- Por que importa: Dano físico de grande escala à infraestrutura de rede é evento operacional direto para a CPFL, com potencial custo de reposição e interrupção de fornecimento a clientes.
+- Implicações: Monitorar custo de reparo/capex extraordinário e eventual impacto em qualidade de fornecimento (DEC/FEC) no trimestre; eventos climáticos extremos historicamente podem gerar pedido de recomposição tarifária extraordinária junto à Aneel.
+- Confiabilidade: Média-alta (MegaWhat, via clipping BTG) — Confirmado
+- Fonte: MegaWhat, via BTG Pactual (Utilities Clipping) | evento em 24/07, clipping recebido 27/07 08:47 BRT | cobertura: 1 clipping
+- Link: https://megawhat.uol.com.br/distribuicao/ventos-de-ate-160-km-h-derrubam-54-torres-de-transmissao-em-sao-paulo/
+  [resumo do clipping — artigo não acessado integralmente, fetch da página indisponível]
+
+### Retail / Capital Markets
+
+**Smart Fit aprova emissão de até R$1,25 bilhão em debêntures para refinanciar dívida** — SMFT3
+- Resumo: A Smart Fit aprovou emissão de debêntures de até R$1,25 bilhão para refinanciar dívida e fortalecer a estrutura de capital, com prazo de até dez anos, destinada a investidores profissionais, segundo a XP Retail News.
+- Por que importa: Evento de gestão de passivos/estrutura de capital em nome de cobertura direta (P1 Retail).
+- Implicações: Refinanciamento tende a alongar o perfil de dívida e pode reduzir custo médio de capital, a depender do cupom final; monitorar spread de emissão como sinal de percepção de crédito da companhia.
+- Confiabilidade: Alta — Confirmado (fato societário, via nota da XP)
+- Fonte: XP Research (Retail News) | 27/07 08:49 BRT | cobertura: 1 clipping
+- Link: [resumo do clipping — link de rastreamento XP presente no e-mail, artigo não acessado integralmente]
+
+## 3. Menções secundárias
+- Com inadimplência em alta, balanço de bancos deve trazer tom de cautela no 2T26 (Valor Econômico, 27/07) — leitura setorial para Itaú, Bradesco, BTG, Nubank e Banco do Brasil antes da temporada de resultados — https://valor.globo.com/financas/noticia/2026/07/27/com-inadimplencia-em-alta-balanco-de-bancos-deve-trazer-tom-de-cautela.ghtml
+
+## 4. Sem novos desenvolvimentos relevantes (demais e-mails da janela)
+Os demais e-mails recebidos após 08:32 BRT (IBBA Daily do Itaú BBA) trouxeram apenas previews de resultados/notas de estratégia sem fato novo, ou repetiram notícia já coberta no digest completo desta manhã (retomada de importações de gado mexicano pelos EUA, já reportada via Morgan Stanley no digest das 08:32 — não repetida aqui).
+
+---
+*Nota de correção: a primeira versão deste digest incremental usou por engano o corte de fallback de 08:15 BRT (nenhum rascunho do primeiro digest foi localizado no Gmail) e, por isso, re-reportou histórias que já constavam do digest completo (Vale/irmãos Batista, Brava/Ecopetrol, Equatorial/Cade-Copasa, Braskem, upgrade da WEG). Esses itens foram removidos após confirmar, via equities-store, que o primeiro digest foi gerado às 08:32:50 BRT (11:32:50 UTC).*
+*Digest incremental gerado a partir da caixa equitiesvc@gmail.com, janela 27/07/2026 11:32:50–~11:50 UTC (08:32–08:50 BRT).*

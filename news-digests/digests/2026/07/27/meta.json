@@ -32,6 +32,19 @@
         "md": "full.md",
         "html": "full.html"
       }
+    },
+    "incremental": {
+      "since": "2026-07-27T11:32:50.427Z",
+      "itemCount": 2,
+      "tickers": [
+        "CPFE3",
+        "SMFT3"
+      ],
+      "generatedAt": "2026-07-27T12:01:41.630Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
     }
   }
 }
