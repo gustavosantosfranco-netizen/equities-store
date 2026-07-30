@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-30",
+  "runs": {
+    "incremental": {
+      "since": "2026-07-30T11:15:00Z",
+      "itemCount": 9,
+      "tickers": [
+        "SBSP3",
+        "ENEV3",
+        "BBDC4",
+        "SANB11",
+        "MOTV3",
+        "HYPE3",
+        "RADL3",
+        "HAPV3",
+        "SAUD3",
+        "SUZB3",
+        "VIVT3",
+        "TIMS3",
+        "EMBR3",
+        "COGN3",
+        "ANIM3",
+        "DASA3",
+        "ABEV3",
+        "CSNA3",
+        "MULT3"
+      ],
+      "generatedAt": "2026-07-30T12:08:06.109Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}

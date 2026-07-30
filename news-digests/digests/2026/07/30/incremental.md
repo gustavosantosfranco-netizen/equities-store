@@ -1,0 +1,138 @@
+# Digest de Notícias — 30/07/2026 (incremental, desde 08:15 BRT)
+
+*Nota metodológica: não foi encontrado nenhum draft de "digest completo" datado de hoje em equitiesvc@gmail.com (o último draft de digest encontrado era de 28/07). Como o primeiro digest do dia aparentemente não rodou, este envio usa o horário de fallback definido pelo processo (08:15 BRT / 11:15 UTC) como corte, e cobre tudo o que chegou à caixa de entrada entre 08:15 BRT e agora.*
+
+## 1. Resumo executivo
+
+Janela curta (~08:15–09:35 BRT) mas movimentada: o fluxo de sell-side trouxe uma sequência de mudanças de rating/preço-alvo em nomes cobertos (Bradesco, Santander, Suzano, BradSaúde, RaiaDrogasil, Cogna, Anima, Dasa) somada a dois eventos corporativos concretos — recapitalização do Bradesco com antecipação de JCP e transferência da fatia de 14,86% da Mover na Motiva para o Bradesco — e a expectativa reforçada pelo JPMorgan de um quarto corte consecutivo de 25bps na Selic (para 14,00%) na reunião do Copom da semana que vem. No setor de saneamento, Sabesp e Emae divergem publicamente sobre o status da assembleia de incorporação após suposto adiamento pela CVM. Em utilities, a Eneva foi convocada em um leilão de reserva de capacidade após a inabilitação de concorrentes. Em saúde, a corrida do semaglutida segue rendendo desdobramentos para Hypera (e agora também para a leitura de RADL), enquanto a Hapvida foi descredenciada pela DaVita na rede de hemodiálise.
+
+**Destaques desde o primeiro digest:**
+- JPMorgan reforça expectativa de corte de 25bps na Selic (para 14,00%) no Copom da semana que vem
+- Bradesco anuncia aumento de capital de até R$10bi com antecipação de pagamento de JCP
+- JPMorgan rebaixa Santander Brasil para Neutro após 2T26 fraco; corta PT27 para R$30
+- Motiva: Mover fará transferência de 14,86% de participação para o Bradesco após expiração do direito de preferência
+- Sabesp e Emae divergem sobre status da assembleia de incorporação (CVM teria adiado, segundo a Emae; Sabesp diz que está mantida)
+- Eneva é convocada em leilão de reserva de capacidade (LRCAP) da Aneel após inabilitação de concorrentes
+- Hypera: semaglutida (Semavy) ganha leituras quantificadas de receita/EBITDA do sell-side; concorrência se intensifica com Sandoz e Sun Pharma
+- DaVita descredencia a Hapvida de sua rede de hemodiálise
+- JPMorgan inicia cobertura de BradSaúde em Overweight (PT R$19); Citi mantém visão positiva para o 2T26E
+
+## 2. Destaques
+
+### Macro
+
+**JPMorgan reforça expectativa de 4º corte consecutivo de 25bps na Selic** — Brasil (Juros/Copom)
+- **Resumo:** Em nota de sales, o JPMorgan reafirma que espera que o BCB corte a Selic em 25bps, para 14,00%, na reunião do Copom da semana que vem — o quarto corte consecutivo no ritmo atual, alinhado ao pricing de mercado e ao consenso Focus. O banco nota que o Comitê tem mantido o ritmo de corte mesmo diante de dados de inflação/atividade desafiadores, e que dados mais fracos recentes (inclusive o IPCA da semana) devem reforçar a continuidade do ciclo de calibragem.
+- **Por que importa:** Confirma o cenário-base de queda de juros que sustenta a tese de re-rating para setores sensíveis a taxa (utilities, varejo, construção, bancos).
+- **Implicações:** Reforça o carrego positivo para NTN-Bs/renda fixa doméstica e para papéis de alta duration/alavancagem (utilities regulados, construtoras); sem alteração de premissa de WACC/Selic terminal nos modelos por ora — é confirmação, não surpresa.
+- **Confiabilidade:** Alta (nota de research do JPMorgan) — Confirmado (visão do próprio banco, alinhada ao consenso Focus)
+- **Fonte:** JPMorgan, "Mercados em 1 Minuto" (Sales Commentary) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=DWzwWvC&sig=SR2wAmgr6NRSmFRLagIC1BUYNq3&v=2&url=https://markets.jpmorgan.com/research/email/scx/-o66nn2v/GPS-5385247-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+
+### Bancos
+
+**Bradesco anuncia aumento de capital de até R$10bi com antecipação de JCP** — BBDC4
+- **Resumo:** O Bradesco lançou um aumento de capital de até R$10bi em conjunto com a antecipação do pagamento de JCP que a companhia pagaria mais adiante neste ano e no início de 2027. O JPMorgan classifica o movimento como uma "recapitalização via JCP" e dá primeira leitura positiva.
+- **Por que importa:** Mecanismo de capitalização via antecipação de JCP eleva o patrimônio líquido tangível e ajuda no consumo de créditos tributários (DTA) do banco — tema que o próprio JPM já vinha explorando em nota anterior ("What If Dividends Were Capitalized?").
+- **Implicações:** Positivo para o índice de capital (CET1) e para a velocidade de consumo de DTA; potencial catalisador de re-rating para o múltiplo P/VP do banco caso o mercado precifique o ganho de capital tangível.
+- **Confiabilidade:** Alta (nota de research do JPMorgan, citando anúncio da própria companhia) — Confirmado (anúncio da companhia)
+- **Fonte:** JPMorgan, "Mercados em 1 Minuto" (Sales Commentary) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=VpYrkS8&sig=Is27h9VuQpNSPwVrB8lJ3z5pHEC&v=2&url=https://markets.jpmorgan.com/research/email/scx/-nbr33ah/GPS-5388121-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+
+**JPMorgan rebaixa Santander Brasil para Neutro após 2T26 fraco** — SANB11
+- **Resumo:** O JPMorgan rebaixou o Santander Brasil de Overweight para Neutro após um 2T26 fraco e um call que reforçou uma recuperação de lucros mais gradual. O banco cortou o PT27 para R$30 (de R$36). Segundo a nota, o resultado veio ~18% abaixo do JPMe e ~16% abaixo do consenso da própria companhia, com um "miss" de 43% no EBT (parcialmente compensado por alíquota de imposto mais favorável), provisão maior e NII de cliente mais fraco.
+- **Por que importa:** Rating action concreta em nome coberto (P2 Bancos) — ROE deve seguir perto ou abaixo do custo de capital nos próximos 1-2 anos, combinado a um ciclo de crédito pior.
+- **Implicações:** Corte de estimativas e de PT27 (R$36 → R$30); valuation a ~1,0x book já não compensa o risco visto pelo JPM diante do ROE pressionado — negativo para a tese relativa dentro do setor bancário.
+- **Confiabilidade:** Alta (nota de research do JPMorgan) — Confirmado (mudança de rating e PT do próprio banco)
+- **Fonte:** JPMorgan, "Mercados em 1 Minuto" (Sales Commentary) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=e9xSVPA&sig=1uRRDOhMY0oa0ftVbqg6odyE6Fb&v=2&url=https://markets.jpmorgan.com/research/email/scx/ruruj4uq/GPS-5378472-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+
+### Transportes
+
+**Motiva: fatia de 14,86% da Mover será transferida ao Bradesco; 2T26 supera EBITDA** — MOTV3
+- **Resumo:** A Motiva anunciou que a Mover, uma de suas acionistas controladoras, assinou acordos para alienar sua fatia de 14,86% na companhia (300mn de ações, sendo 10% do bloco de controle via acordo de acionistas e 4,86% fora dele) ao Bradesco, após a expiração do período de direito de preferência. Separadamente, no mesmo fluxo de research, o JPM reporta que a Motiva bateu o EBITDA ex-aeroportos esperado no 2T26 (R$2.445mi, +29% a/a, +4,5% vs. JPMe e +3% vs. consenso Bloomberg), com capex do trecho Fernão Dias vindo abaixo do estimado.
+- **Por que importa:** A transferência de participação relevante para o Bradesco mantém um overhang de governança/controle sobre o papel, mesmo com o resultado operacional forte no trimestre.
+- **Implicações:** JPM classifica a movimentação acionária como "levemente negativa" (persistência de overhang), ao passo que o resultado operacional (beat de EBITDA, capex menor) é positivo para a geração de caixa — sinais mistos que devem se equilibrar no curto prazo.
+- **Confiabilidade:** Alta (nota de research do JPMorgan, citando comunicado da própria companhia) — Confirmado (fato relevante da Motiva + divulgação de resultado)
+- **Fonte:** JPMorgan, "Mercados em 1 Minuto" (Sales Commentary) | 30/07/2026 | cobertura: 1 clipping
+- **Link (transferência de fatia):** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=V2XYu62&sig=RyooyRMNWS1yIJbfhfEzaADGVqf&v=2&url=https://markets.jpmorgan.com/research/email/scx/bnpa0nli/GPS-5387056-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+- **Link (resultado 2T26):** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=oSroGIU&sig=ZUTdYXh16hNIbEfxdMIHY7AILye&v=2&url=https://markets.jpmorgan.com/research/email/scx/-8b4lkpu/GPS-5387471-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+
+### Saneamento
+
+**Sabesp x Emae: relatos conflitantes sobre a assembleia de incorporação** — SBSP3
+- **Resumo:** A Folha noticiou que a CVM adiou a assembleia da Emae que decidiria a incorporação pela Sabesp, atendendo a pedido de um acionista minoritário e dando prazo (a reportagem cita 30 dias) para as empresas apresentarem informações, com nova data de reunião ainda a ser anunciada. Horas depois, o Estadão reportou que a Sabesp contradisse a Emae, afirmando que a assembleia sobre a incorporação será mantida — a Emae teria informado que a CVM havia adiado o encontro, mas a Sabesp nega. Separadamente, uma nota de mercado da Valor indica que a Sabesp convocou uma assembleia própria para realinhar o mandato dos membros do seu conselho de administração.
+- **Por que importa:** Sinal de ruído/conflito de comunicação em um processo de M&A relevante para a Sabesp (incorporação da Emae), que pode atrasar a conclusão da operação e gerar volatilidade de curto prazo no papel.
+- **Implicações:** Enquanto o status da assembleia não for esclarecido de forma inequívoca por ambas as partes, o cronograma de conclusão da incorporação da Emae fica incerto — atenção para o desfecho, que pode afetar o timing de sinergias/consolidação de ativos de geração hidrelétrica da Emae no balanço da Sabesp.
+- **Confiabilidade:** Alta (Folha e Estadão) — fontes em conflito direto entre si; nenhuma das duas é, isoladamente, a palavra final — aguardar confirmação oficial via fato relevante/CVM.
+- **Fonte:** Folha de S.Paulo + Estadão (via BofA "Brazilian Utilities News") | 29-30/07/2026 | cobertura: 1 clipping (BofA, replicado internamente a 2 destinatários)
+- **Link (Folha — CVM adia):** https://www1.folha.uol.com.br/mercado/2026/07/cvm-adia-assembleia-da-emae-que-decidiria-incorporacao-pela-sabesp.shtml
+- **Link (Estadão — Sabesp contradiz):** https://www.estadao.com.br/economia/sabesp-contradiz-emae-assembleia-incorporacao-mantida/
+- **Link (Valor — assembleia p/ realinhar mandato do conselho):** https://valor.globo.com/empresas/noticia/2026/07/29/sabesp-convoca-assembleia-para-realinhar-mandato-de-conselheiros.ghtml
+  [resumo do clipping — artigos não acessados integralmente; fetch bloqueado nos três domínios]
+
+### Utilities
+
+**Eneva é convocada em leilão de reserva de capacidade (LRCAP) após inabilitação de concorrentes** — ENEV3
+- **Resumo:** Segundo a Folha, a comissão da Aneel negou recurso no leilão de reserva de capacidade e apontou a convocação da Eneva e da Global após a inabilitação de projetos que somam 1,7GW de capacidade. Em paralelo, a Brasil Energia noticia que a Aneel homologou parcialmente o resultado do LRCAP 2/2026, com a Procuradoria Federal afastando alegações de irregularidade na apuração feitas por uma das proponentes (EPP).
+- **Por que importa:** Convocação em leilão de reserva de capacidade após inabilitação de concorrentes é, em geral, favorável para o projeto convocado — abre caminho para contratação adicional de capacidade térmica para a Eneva.
+- **Implicações:** Se confirmada, a convocação amplia a carteira contratada de capacidade da Eneva; monitorar volume (MW) e prazo de vigência do contrato resultante para dimensionar o impacto em EBITDA/backlog regulatório.
+- **Confiabilidade:** Alta (Folha, Brasil Energia) — Confirmado (decisão de comissão da Aneel), mas volume/termos exatos da convocação ainda não confirmados no clipping.
+- **Fonte:** Folha de S.Paulo + Brasil Energia (via BofA "Brazilian Utilities News") | 29-30/07/2026 | cobertura: 1 clipping (BofA, replicado internamente a 2 destinatários)
+- **Link (Folha):** https://www1.folha.uol.com.br/mercado/2026/07/comissao-da-aneel-nega-recurso-no-leilao-de-termicas-e-aponta-convocacao-da-eneva-e-global.shtml
+- **Link (Brasil Energia — homologação LRCAP):** https://brasilenergia.com.br/energia/governo-regulacao/aneel-homologa-parcialmente-resultado-do-lrcap-22026
+  [resumo do clipping — artigos não acessados integralmente; fetch bloqueado]
+
+### Healthcare
+
+**Hypera (Semavy): leituras de sell-side quantificam potencial do semaglutida; concorrência se intensifica** — HYPE3, RADL3
+- **Resumo:** Após a aprovação da Anvisa (noticiada antes do corte de hoje) de cinco canetas de semaglutida — duas da Hypera (Semavy, Zempneo), uma da Avita Care/Owozy (parceria com Sandoz) e duas da Sun Pharma (Seemasun, Orsema) — o fluxo de research da manhã trouxe leituras quantificadas: o Citi estima potencial de +3-5% de acréscimo de EBITDA para a Hypera via a opcionalidade do GLP-1, ainda pouco precificada pelo mercado, mas alerta para erosão de preço na categoria e para o fato de a Sun Pharma (parceira industrial da Hypera) ter registro próprio. O BofA estima um TAM de ~R$11bi a preços de varejo, com 10% de market share adicionando ~9% à receita da Hypera, e elevou a RaiaDrogasil (RADL) para Compra citando o posicionamento único da rede para capturar o ciclo do semaglutida. A Valor também noticia a Sandoz e a Sun Pharma entrando formalmente na disputa das canetas.
+- **Por que importa:** Consolida o semaglutida como driver estrutural de receita tanto para a Hypera (fabricante) quanto para o varejo farma (RADL), mas com risco de compressão de margem pela intensificação da concorrência.
+- **Implicações:** Hypera — upside de +3-5% em EBITDA (Citi) via linha de GLP-1, parcialmente compensado por risco de erosão de preço; RADL — upgrade de rating do BofA para Compra é um catalisador de curto prazo para o múltiplo do papel.
+- **Confiabilidade:** Alta (notas de research do Citi e do BofA) — Confirmado (aprovações da Anvisa já são fato) / Análise (leituras de EBITDA/TAM são estimativas do sell-side, não guidance da companhia).
+- **Fonte:** Citi "Healthcare & Education Daily" + BofA-OSS (LatAm Retail & eCommerce) | 30/07/2026 | cobertura: 2 clippings
+- **Link (Citi — Semaglutide race is on):** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD1KMklHYnhGRGs2aHMwbGdMemNVRnQxaE0tQWNTdGhBOSZlbWFpbF9zZW5kX2lkPTQxNzI5Nzc0NzImdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI4NDQ0NDQmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDQ0NCZ2ZW5kb3I9Q2l0aSBWZWxvY2l0eSZkb2NfaWQ9MzA0NDgxMTEmcGxhdGZvcm09NjkmY2xpZW50Qmxhc3RJZD1TTC0xMjg0NDQ0NA
+- **Link (BofA — Semaglutide: big opportunities for HYPE, RADL):** https://rsch.baml.com/r?q=exrqYsNSH9FekqL6OkvK0g&e=robert.e.ford%40bofa.com&h=YYicPQ
+- **Link (RADL upgrade to Buy, BofA):** https://rsch.baml.com/r?q=1qvXW9VF!MsfPluNqf-MIA&e=robert.e.ford%40bofa.com&h=-uUg [URL parcialmente corrompida no corpo do e-mail original — trecho final do parâmetro "h=" ilegível na extração; reproduzido tal como recebido]
+- **Link (Valor — Hypera/Sun Pharma/Sandoz disputa das canetas):** https://valor.globo.com/empresas/noticia/2026/07/30/hypera-sun-pharma-e-sandoz-entram-na-disputa-das-canetas.ghtml
+  [resumo do clipping/nota de research — artigos de imprensa não acessados integralmente (fetch bloqueado); links institucionais Citi/BofA exigem acesso autenticado ao portal do banco]
+
+**DaVita descredencia a Hapvida de sua rede de hemodiálise** — HAPV3
+- **Resumo:** Segundo O Globo (coluna Capital), a DaVita — gigante da hemodiálise — descredenciou a Hapvida de sua rede.
+- **Por que importa:** Rede de hemodiálise é um centro de custo relevante para operadoras de saúde; um descredenciamento de player grande como a DaVita pode ter efeito líquido tanto de custo (positivo, menos exposição a um provedor caro) quanto de rede (negativo, se gerar judicialização de beneficiários dependentes de hemodiálise).
+- **Implicações:** Monitorar impacto na MLR (sinistralidade) da Hapvida nos próximos trimestres e eventual repercussão via judicialização por parte de beneficiários em tratamento — sem detalhe, no clipping, sobre volume de vidas afetadas.
+- **Confiabilidade:** Alta (O Globo) — Confirmado (mas sem declaração oficial de nenhuma das duas partes reproduzida no clipping)
+- **Fonte:** O Globo (via Citi "Healthcare & Education Daily") | 29/07/2026 | cobertura: 1 clipping
+- **Link:** https://oglobo.globo.com/blogs/capital/post/2026/07/davita-gigante-da-hemodialise-descredencia-hapvida.ghtml
+  [resumo do clipping — artigo não acessado integralmente; fetch bloqueado]
+
+**JPMorgan inicia BradSaúde em Overweight (PT R$19); Citi mantém visão positiva para o 2T26E** — SAUD3
+- **Resumo:** O JPMorgan saiu da restrição sobre a BradSaúde com recomendação Overweight e PT de R$19/ação, vendo a companhia como combinação rara de lucros defensivos, estrutura favorável a ganho de market share, ROEs altos e dividendos, com EPS CAGR de ~9% até 2030E e dividend yield de ~7-8%. Em nota separada, o Citi mantém visão construtiva para o 2T26 (resultado em 3/ago AMC), esperando lucro líquido de ~R$1bi (já incorporando a declaração de JCP recente), crescimento de receita de ~9% a/a e MLR relativamente estável — negociando a 10,1x/9,3x P/L 26E/27E.
+- **Por que importa:** Duas casas relevantes (JPM iniciando cobertura, Citi reiterando) convergem para uma leitura construtiva sobre a tese de BradSaúde antes do resultado do 2T26.
+- **Implicações:** Consenso favorável de curto prazo pode sustentar re-rating do múltiplo (JPM vê o papel merecendo 11,5x P/L 2027E vs. ~9x atual); atenção à política de payout/alocação de capital como próximo catalisador citado pelo Citi.
+- **Confiabilidade:** Alta (notas de research do JPMorgan e do Citi) — Análise (recomendações e estimativas do sell-side, não fato novo da companhia)
+- **Fonte:** JPMorgan "Mercados em 1 Minuto" + Citi "Healthcare & Education Daily" | 30/07/2026 | cobertura: 2 clippings
+- **Link (JPM — BradSaúde OW):** https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=skRd2Lg&sig=HhDTCuj1HRQwlWXZ8s2YVubyLWF&v=2&url=https://markets.jpmorgan.com/research/email/scx/de1dm9sd/GPS-5332869-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+- **Link (Citi — 2Q26 Preview: Looking good):** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD1KMklHYnhGRGs2aHMwbGdMemNVRnQxaE0tQWNTdGhBOSZlbWFpbF9zZW5kX2lkPTQxNzI5Nzc0NzImdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI4MzQzOTYmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDQ0NCZ2PTEmdmVuZG9yPUNpdGkgVmVsb2NpdHkmZG9jX2lkPTMwNDQ3NzQyJnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI4MzQzOTY
+  [links institucionais exigem acesso autenticado aos portais JPM/Citi]
+
+## 3. Menções secundárias
+
+- Suzano: JPM reforça Overweight ("pounding the table"), papel no preço de 2023 mas empresa maior/mais barata/menos alavancada (~3x dívida líquida/EBITDA); PT R$67 (~60% upside) — https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=rtZfZRZ&sig=4BeCdlTHrC26rd6C5pu7CVBWvvm&v=2&url=https://markets.jpmorgan.com/research/email/scx/3uqrhkvi/GPS-5371371-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+- BZ Telcos (Vivo/Tim): JPM segue cauteloso mesmo após sell-off pós-resultado (-9,9%/-9,4% vs. Ibov); novos PT27 — Tim R$23,50, Vivo R$30,50 — https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=1NTHK_k&sig=UmoLtFN6WBiepsqp6rudRiIY9a6&v=2&url=https://markets.jpmorgan.com/research/email/scx/vpkg9eqd/GPS-5387206-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+- Embraer: ANA Holdings adquire 8 E-190 adicionais (~US$640mi a preço de tabela), entregas entre 2029-2032 — https://jpmorgan.email.streetcontxt.net/platform/al?a=13732069&ad=4675015323&h=Wv099Dv&sig=UF3XKIe90NFhkzUpS1ix8XcGoSh&v=2&url=https://markets.jpmorgan.com/research/email/scx/58emgke5/GPS-5386926-0.pdf/8e03c367-e78f-4589-b226-f713a33a2d3f
+- Cogna: Citi corta estimativas 26/27E em 17%/9%, reduz TP para R$2,50, mantém-se na cautela ("sidelines") — link institucional Citi (portal autenticado)
+- Anima: Citi rebaixa para Venda após aquisição da FMU (nova tese, alavancagem 2,7x DL/EBITDA), TP R$1,80 — link institucional Citi (portal autenticado)
+- Dasa: Citi reduz TP para R$3,80 (Ke maior), mantém Neutro — link institucional Citi (portal autenticado)
+- Citi "Friday Charts": SARS/ocupação hospitalar seguem abaixo do padrão histórico — leitura negativa para Rede D'Or, favorável para seguradoras/BradSaúde/Hapvida (menor pressão de sinistralidade) — link institucional Citi (portal autenticado)
+- Mercado Livre: Citi nota mudança de posicionamento quantitativo — sentimento migra de "short" de consenso para debate bilateral — link institucional Citi (portal autenticado)
+- Mercado Livre / Mercado Pago sofreram instabilidade nas plataformas em 29/07 (pico de reclamações no Downdetector, também em ARG/URU/CHI/COL) — https://www1.folha.uol.com.br/tec/2026/07/mercado-livre-e-mercado-pago-tem-instabilidade-nesta-quarta-29.shtml
+- PEC do fim da escala 6x1 segue parada há dois meses no Senado, sem relator designado — https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/pec-do-fim-da-escala-6x1-esta-parada-ha-dois-meses-no-senado.ghtml
+- Aegea (saneamento, peer privado de Sabesp/Copasa) aprova aumento de capital de até R$2,1bi para acelerar desalavancagem — https://valor.globo.com/empresas/noticia/2026/07/29/aegea-aprova-aumento-de-capital-de-ate-r-21-bilhoes-para-acelerar-desalavancagem.ghtml
+- Aneel reduz RAG das 59 hidrelétricas cotistas em 6,34% após descotização, receita anual cai para R$8,12bi — https://brasilenergia.com.br/energia/hidrica/aneel-reduz-rag-das-usinas-cotistas-em-634-apos-descotizacao
+- TCU vai acompanhar efeitos da reforma tributária em concessões públicas — https://www.cnnbrasil.com.br/infra/tcu-acompanhara-efeitos-da-reforma-tributaria-em-concessoes-publicas/
+- Brookfield e NextEra vão desenvolver campus de data center no Brasil — leitura de demanda de energia para o setor elétrico — https://valor.globo.com/empresas/noticia/2026/07/29/brookfield-e-nextera-desenvolvero-campus-de-data-center-de.ghtml
+- Regulação mais rígida do EAD reduz matrículas online; Vitru é a mais exposta (~80% da receita em EAD), seguida por Yduqs e Cogna (~1/3 da receita) [nota macro Bradesco BBI "Mkt Color" — sem link de artigo no e-mail]
+- Ambev aprova distribuição de JCP de R$1,1bi (R$0,0713/ação bruto), a pagar até o fim do ano [nota macro Bradesco BBI "Mkt Color" — sem link de artigo no e-mail]
+- CSN prepararia emissão de bond internacional de US$1bi para refinanciar vencimentos de 2028 [rumor — nota macro Bradesco BBI "Mkt Color", sem link de artigo no e-mail; não confirmado por fato relevante]
+- Multiplan (MULT3) e Parque Arauco reportam resultado do 2T26 hoje após o fechamento — calendário JPM LatAm Real Estate
