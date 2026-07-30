@@ -1,0 +1,300 @@
+# Digest de Notícias — 30/07/2026 (últimas 12h)
+
+## 1. Resumo executivo
+
+O dia foi dominado por **utilities**: uma ventania extrema no Rio e em Niterói derrubou ~1,5 GW de carga e deixou a Axia (e distribuidoras vizinhas) com apagões — episódio que a imprensa já conecta à intensificação do El Niño 2026, que o governo tenta amortecer com R$1,33bi em socorro emergencial. Na frente corporativa do setor, a Eneva fechou acordo de R$340mi com a Vale pelo fim do contrato de GNL (Citi vê upside de 23% para ENEV3) e teve a ANEEL confirmando a desqualificação de projetos rivais no LRCAP, enquanto Sabesp, Copasa, Taesa, Alupar/Axia e Engie tiveram desdobramentos corporativos relevantes na mesma janela de 12h. No macro global, o Fed manteve os juros parados no FOMC de julho (Warsh eleva a barra para um novo aperto) e sinais de estagnação da atividade industrial chinesa reforçam a cautela para Vale e siderúrgicas, que também digerem o resultado fraco da ArcelorMittal na Europa. Na saúde, a Anvisa aprovou o Semavy (semaglutida) da Hypera — com a Morgan Stanley já falando em revisão de consenso para cima — no mesmo dia em que a DaVita descredenciou a Hapvida de sua rede de hemodiálise. Em transporte e bens de capital, Motiva e Embraer tiveram novidades de 2T26/comerciais, enquanto a Petrobras segue no radar de dividendos após produção recorde.
+
+**Destaques do dia:**
+- Fed mantém juros parados no FOMC de julho; Warsh eleva a barra para um aperto e petróleo sobe, pressionando as Treasuries
+- China: atividade industrial deve estagnar em julho e demanda por aço deve cair em 2026 — leitura negativa para Vale e siderúrgicas
+- Ventania extrema derruba subestação da Axia e provoca apagões no Rio e em Niterói (Enel)
+- Eneva fecha acordo de R$340mi com a Vale pelo fim do contrato de GNL e tem desqualificação de rivais confirmada pela ANEEL; Citi vê upside de 23%
+- Sabesp reafirma que assembleia sobre incorporação da Emae será mantida, após CVM adiar a reunião
+- Copasa acelera renovação de contratos e universalização do saneamento em Minas Gerais após privatização
+- Taesa adquire cinco linhas de transmissão da Energisa e adiciona R$19mi à receita anual
+- Alupar e Axia dividem quatro lotes no 2º leilão de transmissão de 2026
+- Engie conclui internalização da Jirau e liquidação de oferta, com disputa de R$20bi também no radar
+- El Niño 2026 pode ser um dos mais fortes da história; governo libera R$1,33bi em socorro, com leitura para geração térmica e agro
+- Vale: mercado eleva expectativas de receita e EBITDA para o 2T26 antes do balanço
+- ArcelorMittal: lucro cai 62% no 2T26 mas companhia vê melhora na Europa — leitura para Gerdau, CSN e Usiminas
+- Safra eleva Usiminas para Neutro, citando risco-retorno mais equilibrado
+- CSN é questionada pela B3 sobre notícia veiculada na imprensa; Safra vê melhora na desalavancagem
+- Anvisa aprova Semavy, novo semaglutida da Hypera; Morgan Stanley eleva tom após aprovação de 5 canetas emagrecedoras
+- DaVita descredencia Hapvida da rede de hemodiálise
+- Hapvida revive marca NotreDame para planos premium
+- Motiva reporta 2T26 com EBITDA levemente abaixo do consenso mas lucro líquido acima do esperado
+- Embraer soma demanda: ANA Holdings amplia pedido de E2 e Air Montenegro avalia primeira aeronave da marca
+- Petrobras: produção recorde no 2T26 reforça expectativa de dividendo robusto, mas oferta de gás da estatal recua
+- Mercado Livre e Mercado Pago sofrem instabilidade generalizada nesta quarta-feira
+- Encomendas internacionais saltam 42% após fim da "taxa das blusinhas", aponta XP Retail
+- Santander Brasil: ROE só deve normalizar em 2027, diz Morgan Stanley após call do 2T26
+- JBS: PPC entrega EBITDA em linha no 2T26, mas litígios trazem leitura líquida negativa
+
+## 2. Destaques
+
+### Macro Global
+
+**Fed mantém juros parados no FOMC de julho; Warsh eleva a barra para um aperto e petróleo sobe, pressionando as Treasuries** — Macro (P1 FED/US)
+- **Resumo:** A nota de economia da Morgan Stanley mantém a visão de que o Fed ficará parado em 2026; comentários do presidente Warsh sugerem que a barra para uma nova alta de juros é mais alta do que o mercado assumia. A equipe projeta desinflação à frente, mas vê risco de inflação mais persistente. Na mesma manhã, o comentário de vendas da casa registrava Brent subindo 1,1% para US$91,7/barril e um "twist-steepening" nas Treasuries.
+- **Por que importa:** É o principal driver de tom global de risco para o book de LatAm equities hoje — e a combinação juros-mais-altos-por-mais-tempo com petróleo em alta tem leitura direta para Petrobras/PetroRio e para o custo de capital de utilities/construtoras alavancadas.
+- **Implicações:** Sem catalisador para reprecificação de curva de juros americana no curto prazo; manter cautela em nomes de alta duration (utilities regulatórias, incorporadoras) e monitorar reação de Treasuries/DXY sobre o câmbio local.
+- **Confiabilidade:** Alta — Análise (nota de research/sales, não notícia factual nova)
+- **Fonte:** Morgan Stanley (US Economics and Fixed Income Strategy) | 30/07/2026 | cobertura: nota interna da Morgan Stanley (LatAm Daily)
+- **Link:** https://ny.matrix.ms.com/eqr/article/webapp/d7d64ff6-8b4b-11f1-b78c-cd9c37049687?t=1785408549:6459:12273:4110bfc5bc64&m=1&ch=Outlook%20Blastmail#e=Z2ZyYW5jb0B2aW5jaWNvbXBhc3MuY29t
+  [resumo do clipping — artigo não acessado integralmente]
+
+**China: atividade industrial deve estagnar em julho e demanda por aço deve cair em 2026 — leitura negativa para Vale e siderúrgicas** — VALE3, GGBR4, CSNA3, USIM5 (P1 China)
+- **Resumo:** O PMI industrial privado (RatingDog) da China, a ser divulgado em 3/ago, deve recuar para 51,5 ante 51,7 em junho. Em paralelo, a SteelOrbis reporta que a demanda chinesa por aço deve cair levemente em 2026 (a desaceleração da construção deve neutralizar ganhos da manufatura), que a recuperação de lucros do setor segue lenta apesar de cortes de produção, e a Mysteel destaca preços de aço chinês sob pressão baixista contínua. A SCMP nota que estaleiros chineses seguem fechando encomendas de navios de maior valor agregado, sinal de resiliência seletiva.
+- **Por que importa:** China é o principal driver de demanda marginal de minério de ferro e aço — uma leitura mais fraca de atividade e preços pressiona o sentimento para Vale e para as siderúrgicas domésticas, mesmo com alguma proteção via cotas de importação.
+- **Implicações:** Viés de cautela para estimativas de preço de minério/aço no curto prazo; monitorar se o PMI de 3/ago confirma a desaceleração e se isso pressiona ainda mais o prêmio de risco doméstico do setor.
+- **Confiabilidade:** Alta — Confirmado (dados e pesquisas setoriais)
+- **Fonte:** Reuters / SteelOrbis / Mysteel / SCMP (via BofA Steel & Mining Daily) | 30/07/2026 | cobertura: 5 clippings
+- **Link:** https:/www.reuters.com/world/china/chinas-factory-activity-expected-have-stalled-july-2026-07-30/
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https://www.steelorbis.com/steel-news/latest-news/chinas-steel-demand-to-drop-slightly-in-2026-as-construction-slump-may-neutralize-gains-from-manufacturing-1467349.htm ; https://www.steelorbis.com/steel-news/latest-news/chinese-steel-industrys-profit-recovery-remains-slow-despite-production-cuts-1467868.htm ; https://www.mysteel.net/analysis/5134342-cisa-chinas-steel-prices-remain-under-downward-pressure ; https:/www.scmp.com/economy/china-economy/article/3362394/chinese-shipbuilders-secure-new-vessel-orders-beijing-pushes-high-margin-shift?module=top_story&pgtype=subsection)
+
+### Utilities (Energia Elétrica & Saneamento)
+
+**Ventania extrema derruba subestação da Axia e provoca apagões no Rio e em Niterói** — ELET3/ELET6 (Axia)
+- **Resumo:** Ventos fortes atingiram o Rio de Janeiro e São Paulo, derrubando uma subestação da Axia e cerca de 1,5 GW de carga, com reflexos em metrô, trens, barcas e trânsito na região metropolitana. Niterói também registrou apagões em bairros (área operada pela Enel). No dia seguinte, ainda havia restrições de energia e transporte público na região.
+- **Por que importa:** Nome P1 (Axia) diretamente afetado por evento físico de rede — risco de custos extraordinários de restabelecimento, possível exposição a penalidades regulatórias de qualidade de fornecimento (DEC/FEC) e ruído de curto prazo para o papel.
+- **Implicações:** Monitorar CAPEX extraordinário de manutenção/restabelecimento no 3T26 e eventual impacto em indicadores regulatórios da Axia; evento também alimenta a narrativa de intensificação climática (El Niño) que pressiona toda a cadeia elétrica.
+- **Confiabilidade:** Alta — Confirmado (múltiplos veículos, fatos consistentes)
+- **Fonte:** Agência iNFRA / Megawhat / Eixos / InfoMoney / O Globo / Folha de São Paulo (via BTG Utilities Clipping) | 29-30/07/2026 | cobertura: 6 clippings
+- **Link:** https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWxidXljTENyUzNiak1WRE5ISkg2Mll6NGJ6eGl0X1Z0RUlZYzBCdmNfNnBSZnRHQVRnc19EY3VEMThKMTBtVGFmazNkZHc4R1gxUnliQ3dUSklleWtpeXlSdGswSFlXZGRSMVpxblJDWlJ5TWhfZkF0RG1wU2ZuZVQxTUo2ZEFiQnFFZVBRMlB1MWVXV21oR3lLd0dtV1dsdndyRkZQMA?oc=5
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também outras fontes sobre o mesmo evento, coletadas nos clippings do dia)
+
+**Eneva fecha acordo de R$340mi com a Vale pelo fim do contrato de GNL e tem desqualificação de rivais confirmada pela ANEEL; Citi vê upside de 23%** — ENEV3
+- **Resumo:** Segundo notas da Citi, a Eneva fechou um acordo de R$340mi referente ao encerramento antecipado do contrato de GNL com a Vale, liberando 250 mil m³/dia de capacidade regaseificadora. Na mesma janela, a ANEEL manteve a desqualificação de diversos projetos concorrentes no LRCAP (leilão de reserva de capacidade), o que a Citi classifica como "read-through positivo" para a Eneva. A repercussão na imprensa traz a visão da Citi de que a ação pode entregar retorno de 23% a partir dessa combinação de fatores, e a Eneva também segue acelerando obras em Sergipe para expandir a operação de GNL.
+- **Por que importa:** Nome P1 direto, com dois catalisadores simultâneos: liberação de capacidade de GNL (upside operacional) e menor concorrência estrutural no mercado de capacidade (LRCAP), reforçando a tese de moat regulatório da Eneva.
+- **Implicações:** Suporte para revisão de estimativas de EBITDA de trading de GNL e para o caso de upside de preço-alvo citado pelo Citi (23%); monitorar cronograma de obras em Sergipe como próximo catalisador de capacidade.
+- **Confiabilidade:** Alta — Confirmado (acordo comercial e decisão da ANEEL); Análise para o call de upside do Citi
+- **Fonte:** Citi Research / Estadão / Brasil Energia (via BTG Utilities Clipping) | 29-30/07/2026 | cobertura: 4 clippings
+- **Link:** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD01cEcxUjJPZmdGX2JHY2xOeXFaRGo3cnp2bHpoazk4ZCZlbWFpbF9zZW5kX2lkPTQxNzI5MTE1OTQmdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI4MjQ0NTAmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDI1NCZ2PTEmZG9jX2lkPTMwNDQ2NTM3JnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI4MjQ0NTA
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Sabesp reafirma que assembleia sobre incorporação da Emae será mantida, após CVM adiar a reunião** — SBSP3
+- **Resumo:** A CVM adiou a assembleia da Emae que decidiria sobre sua incorporação pela Sabesp; a Sabesp, por sua vez, contradisse a Emae e afirmou que a assembleia será mantida conforme convocado.
+- **Por que importa:** Nome P1 direto — a disputa sobre timing/condução da assembleia é um sinal de fricção no processo de consolidação, relevante para a tese de expansão via M&A da Sabesp pós-privatização.
+- **Implicações:** Acompanhar novo cronograma da assembleia e eventual impacto na relação de troca/estrutura da incorporação; risco de atraso na captura de sinergias projetadas.
+- **Confiabilidade:** Alta — Confirmado (ação da CVM e posicionamento oficial das companhias)
+- **Fonte:** Estadão / Folha de São Paulo (via BofA Utilities Daily) | 29/07/2026 | cobertura: 2 clippings
+- **Link:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVVIb191WG55dXRNNTFrcFNIdnVfbXN2Z0tIelg2cWZSY09zR0FtV3J0RFExRDZab2tqREljRGJQU2JtVXJEQW9odFdVQzdQekZSVnpQOE51MW5Ld2FUeC03eWN6Z0JPZ05rUFdFZDRGYnRiMlZwOXZzeGpfdE5QSS05WWJ4OF9Rd0tRMWVXV0Q1dVNwOHBTYzdab0NqV0k?oc=5
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Copasa acelera renovação de contratos e universalização do saneamento em Minas Gerais após privatização** — CSMG3
+- **Resumo:** Após a privatização, a Copasa está correndo para renovar contratos municipais e cumprir metas de universalização do saneamento em Minas Gerais.
+- **Por que importa:** Nome P1 direto — renovação de contratos é o driver-chave da tese de investimento pós-privatização (perímetro concedido, capex regulatório e retorno garantido).
+- **Implicações:** Positivo se a renovação avançar em ritmo acima do esperado (visibilidade de capex/RAB); monitorar quais municípios ainda não renovaram como risco residual de receita.
+- **Confiabilidade:** Média-alta — Análise/Confirmado (reportagem baseada em fatos operacionais da companhia)
+- **Fonte:** Exame Notícias (via BofA Utilities Daily) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SFlGa1puY2lSNkxQWFU0WlA0N1JtZ2dvRzFNTFhYRVNLU1AtZWV3aGd3Z0FoSl8xYWJ5cTBCZWVuREFHNGd0NThmMnhtVHhGbXJNU0cwWVVfNVRZN0hfQw?oc=5
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Taesa adquire cinco linhas de transmissão da Energisa e adiciona R$19mi à receita anual** — TAEE11
+- **Resumo:** A Citi Research destaca a aquisição, pela Taesa, de cinco linhas de transmissão da Energisa. Separadamente, a Agência iNFRA noticia que um "reforço" da Taesa foi energizado, adicionando R$19mi à receita anual regulatória (RAP).
+- **Por que importa:** Nome P2 coberto com notícia direta de crescimento via M&A + entrada em operação de reforço — combinação de crescimento inorgânico e orgânico no mesmo dia.
+- **Implicações:** Positivo incremental para RAP e para a tese de crescimento via consolidação de ativos de transmissão da Taesa; leve positivo de liquidez para a contraparte Energisa (P2) como vendedora.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Citi Research / Agência iNFRA (via BofA e BTG Utilities Daily) | 29/07/2026 | cobertura: 2 clippings
+- **Link:** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD01cEcxUjJPZmdGX2JHY2xOeXFaRGo3cnp2bHpoazk4ZCZlbWFpbF9zZW5kX2lkPTQxNzI5MTE1OTQmdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI0MTQ5NTImRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDI1NCZ2PTEmZG9jX2lkPTMwNDMyNjk1JnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI0MTQ5NTI
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Alupar e Axia dividem quatro lotes no 2º leilão de transmissão de 2026** — ALUP11, ELET3/ELET6
+- **Resumo:** A Citi Research reporta que Alupar e Axia dividiram quatro lotes do MEZ no segundo leilão de transmissão de 2026.
+- **Por que importa:** Ambos nomes cobertos (Alupar P2, Axia P1) capturando crescimento via novos ativos regulados de transmissão — visibilidade de RAB/RAP de longo prazo.
+- **Implicações:** Positivo para pipeline de crescimento de ambas as companhias; aguardar deságio/TIR implícita do leilão para calibrar impacto em retorno sobre capital investido.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Citi Research (via BofA Utilities Daily) | 29/07/2026 | cobertura: 1 clipping
+- **Link:** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD01cEcxUjJPZmdGX2JHY2xOeXFaRGo3cnp2bHpoazk4ZCZlbWFpbF9zZW5kX2lkPTQxNzI5MTE1OTQmdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI2ODk2OTYmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDI1NCZ2PTEmZG9jX2lkPTMwNDQxNTI1JnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI2ODk2OTY
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Engie conclui internalização da Jirau e liquidação de oferta, com disputa de R$20bi também no radar** — EGIE3
+- **Resumo:** A Citi Research confirma que a oferta da Engie foi liquidada e a internalização de Jirau está concluída (mantendo recomendação Neutra). Em paralelo, uma reportagem associa a postura da Engie a uma disputa de R$20 bilhões (contexto não detalhado no blurb disponível).
+- **Por que importa:** Nome P2 coberto com evento de capital (oferta liquidada) e consolidação de ativo (Jirau) concluídos no mesmo dia — reduz overhang de execução, mas a disputa de R$20bi é um item a monitorar de perto por falta de detalhe.
+- **Implicações:** Neutro/levemente positivo por remover incerteza de execução da oferta/internalização; sinalizar necessidade de mais cor sobre a disputa de R$20bi antes de qualquer ajuste de tese.
+- **Confiabilidade:** Alta — Confirmado (oferta/internalização); Média — Análise (disputa de R$20bi, sem detalhe factual no clipping)
+- **Fonte:** Citi Research / Exame Notícias (via BofA Utilities Daily) | 29-30/07/2026 | cobertura: 3 clippings
+- **Link:** https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD01cEcxUjJPZmdGX2JHY2xOeXFaRGo3cnp2bHpoazk4ZCZlbWFpbF9zZW5kX2lkPTQxNzI5MTE1OTQmdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI4MjQ0NTAmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDI1NCZ2PTEmZG9jX2lkPTMwNDQ3MzAyJnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI4MjQ0NTA
+  [resumo do clipping — artigo não acessado integralmente]
+
+**El Niño 2026 pode ser um dos mais fortes da história; governo libera R$1,33bi em socorro, com leitura para geração térmica e agro** — Tema setorial (leitura para ENEV3, SLCE3)
+- **Resumo:** O Estadão traz que o El Niño 2026, iniciado oficialmente em junho, está se fortalecendo acima do normal e pode chegar a intensidade recorde. O governo liberou R$1,33bi do Orçamento para enfrentar os efeitos (abastecimento, saúde, monitoramento hidrológico e combate a incêndios), além de ampliar estoques públicos de arroz e milho. A NeoFeed mapeia "quem ganha e quem perde no mercado" com o fenômeno, e a Exame estima que o PIB agrícola pode cair 3% em 2026 combinando juros altos e risco climático.
+- **Por que importa:** Tema Tier 2 direto para o book de utilities/agro: hidrologia mais fraca tende a favorecer geração térmica (Eneva) e pressionar GSF/spot para hidrelétricas, além de aumentar o risco de quebra de safra (SLC Agrícola).
+- **Implicações:** Monitorar PLD e GSF nas próximas semanas como termômetro do risco hidrológico; para agro, revisar premissas de produtividade em nomes com exposição a culturas de sequeiro.
+- **Confiabilidade:** Alta — Confirmado (dado orçamentário e meteorológico); Análise para o mapeamento de ganhadores/perdedores
+- **Fonte:** Estadão / Valor Econômico / NeoFeed / Folha de São Paulo / Exame (via BofA e BTG dailies) | 29-30/07/2026 | cobertura: 7 clippings
+- **Link:** https://www.estadao.com.br/economia/fernando-dantas/el-nino-esta-crescendo-rapido-e-pode-bater-recorde-historico/
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https://neofeed.com.br/economia/a-conta-de-r-13-bi-do-governo-com-o-super-el-nino-e-o-mapa-de-quem-ganha-e-perde-no-mercado/)
+
+### Mineração & Siderurgia
+
+**Vale: mercado eleva expectativas de receita e EBITDA para o 2T26 antes do balanço** — VALE3
+- **Resumo:** O Valor Econômico noticia que, com resultado operacional forte, a Vale deve ampliar receita e EBITDA no 2º trimestre. A InfoMoney faz um apanhado de como a ação VALE3 chega antes do balanço. A Safra publicou nota classificando os números como "neutros", elevando modestamente a estimativa de EBITDA.
+- **Por que importa:** Nome P1 core do book — expectativas revisadas para cima antes do print aumentam a barra para o resultado e elevam o risco de reação negativa em caso de leitura apenas "em linha".
+- **Implicações:** Reforçar cenário-base de EBITDA no 2T26 e comparar com a leitura "neutra" da Safra antes da divulgação; atenção a guidance de custo caixa (C1) e a atualização de capex de Vale Base Metals.
+- **Confiabilidade:** Alta — Análise (expectativa pré-balanço, não resultado divulgado)
+- **Fonte:** Valor Econômico / InfoMoney / Safra (via BofA e Safra Steel & Mining Daily) | 29-30/07/2026 | cobertura: 3 clippings
+- **Link:** https://valor.globo.com/empresas/noticia/2026/07/29/com-resultado-operacional-forte-vale-deve-ampliar-receita-e-ebitda-no-2-trimestre.ghtml
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https://www.infomoney.com.br/mercados/vale3-como-chega-o-preco-da-acao-da-vale-antes-do-balanco/)
+
+**ArcelorMittal: lucro cai 62% no 2T26 mas companhia vê melhora na Europa — leitura para Gerdau, CSN e Usiminas** — GGBR4, CSNA3, USIM5 (leitura setorial)
+- **Resumo:** A ArcelorMittal reportou queda de 62% no lucro do 2T26, mas sinalizou perspectivas melhores para a Europa à frente, favorecida por salvaguardas comerciais europeias. A Reuters detalha que tarifas dos EUA ainda custam US$600mi/ano à companhia, segundo o CFO, mesmo com o resultado batendo expectativas (EBITDA core de US$2,06bi, acima da pesquisa LSEG).
+- **Por que importa:** Leitura de peer global para a cadeia de aço — sinaliza que proteção comercial (salvaguardas/tarifas) está sustentando margens na Europa, tema relevante para o debate de cotas de importação no Brasil que afeta Gerdau/CSN/Usiminas.
+- **Implicações:** Reforça a tese de que medidas de defesa comercial (cotas de importação reduzidas em 11% no Brasil, ver Menções secundárias) são o principal driver de margem doméstica no curto prazo, mais do que preço de commodity puro.
+- **Confiabilidade:** Alta — Confirmado (resultado divulgado)
+- **Fonte:** Valor Econômico / Reuters (via Safra e BofA Steel & Mining Daily) | 30/07/2026 | cobertura: 4 clippings
+- **Link:** https://valor.globo.com/empresas/noticia/2026/07/30/lucro-da-arcelormittal-cai-62-pontos-percentuais-no-2-tri-mas-empresa-v-perspectivas-melhores-na-europa.ghtml
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https:/www.reuters.com/business/arcelormittal-posts-earnings-beat-european-safeguards-bear-fruit-2026-07-30/ ; https:/www.reuters.com/business/us-steel-tariffs-still-cost-arcelormittal-600-million-year-cfo-says-2026-07-30/)
+
+**Safra eleva Usiminas para Neutro, citando risco-retorno mais equilibrado** — USIM5
+- **Resumo:** A Safra publicou nota elevando a recomendação de Usiminas para Neutro, argumentando que o risco-retorno da ação ficou mais equilibrado após a queda recente.
+- **Por que importa:** Nome P2 coberto com mudança de recomendação do sell-side — sinal de que o pessimismo em torno do papel pode estar se estabilizando.
+- **Implicações:** Reavaliar peso relativo de Usiminas frente a Gerdau/CSN no book, considerando o novo patamar de risco-retorno apontado pela Safra.
+- **Confiabilidade:** Alta — Análise (mudança de rating do sell-side)
+- **Fonte:** Safra (Steel & Mining Daily) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://apiext-bi.safra.com.br/apl-api-download-documentos-rdv/documento/PROSPECT-36000.PDF?idu=9167
+  [resumo do clipping — artigo não acessado integralmente]
+
+**CSN é questionada pela B3 sobre notícia veiculada na imprensa; Safra vê melhora na desalavancagem** — CSNA3, CMIN3
+- **Resumo:** A B3 solicitou esclarecimentos da CSN sobre notícia publicada na imprensa (conteúdo específico não detalhado no clipping). Em nota separada, a Safra destaca que a trajetória de desalavancagem da CSN vem melhorando, mas prefere aguardar um ponto de entrada melhor em CSN Mineração (CMIN3).
+- **Por que importa:** Nome P2 coberto com evento regulatório de transparência (pedido de esclarecimento B3) somado a visão construtiva do sell-side sobre a estrutura de capital.
+- **Implicações:** Verificar no fato relevante/comunicado da CSN qual notícia motivou o pedido da B3 antes de qualquer reação de tese; desalavancagem mais rápida é positivo para re-rating do equity.
+- **Confiabilidade:** Primária — Confirmado (comunicado B3); Alta — Análise (nota Safra)
+- **Fonte:** B3 (Plantão de Notícias) / Safra (Steel & Mining Daily) | 29/07/2026 | cobertura: 2 clippings
+- **Link:** https://sistemasweb.b3.com.br/PlantaoNoticias/Noticias/Detail?idNoticia=431658&agencia=&dataNoticia=26-07-29%2017:58:26
+  [resumo do clipping — artigo não acessado integralmente]
+
+### Saúde
+
+**Anvisa aprova Semavy, novo semaglutida da Hypera; Morgan Stanley eleva tom após aprovação de 5 canetas emagrecedoras** — HYPE3, RADL3, PGMN3, PNVL3
+- **Resumo:** A Anvisa aprovou o registro de cinco novos medicamentos à base de semaglutida, sendo quatro ligados à Hypera e seu parceiro — entre eles o Semavy. A Morgan Stanley chama a aprovação de "avenida de crescimento confirmada", projetando lançamento no 3T26, R$109mi de receita incremental em 2026 (+1,4p.p. no crescimento consolidado, sem contribuição de EBITDA no primeiro ano) e R$330mi+ de receita de semaglutida em 2027. Em paralelo, a Sandoz entrou no mercado de semaglutida com o Owozy (parceria com o laboratório Adalvo) e a Eli Lilly projeta registro da retatrutida para 2027 — ambos movimentos citados como relevantes para RADL3/PGMN3/PNVL3 como distribuidores.
+- **Por que importa:** Nome P2 coberto (Hypera) com catalisador regulatório direto e leitura de mercado GLP-1 pós-perda de exclusividade da semaglutida — tema estrutural para toda a cadeia farma/varejo de farmácias.
+- **Implicações:** Elevar a probabilidade de revisão de consenso para cima em Hypera no curto prazo (conforme MS); monitorar timing de precificação CMED como gatilho para o lançamento e intensidade da concorrência (Sandoz, Eli Lilly) sobre o mix de margem da categoria em RADL3/PNVL3/PGMN3.
+- **Confiabilidade:** Alta — Confirmado (aprovação regulatória); Análise (estimativas de receita da MS)
+- **Fonte:** G1 / Terra / Valor Econômico / Panorama Farmacêutico / Morgan Stanley (via Bradesco BBI Healthcare Checkup) | 27-30/07/2026 | cobertura: 5 clippings
+- **Link:** https://g1.globo.com/saude/noticia/2026/07/29/anvisa-aprova-registro-de-5-novos-medicamentos-a-base-de-semaglutida.ghtml
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https://www.terra.com.br/vida-e-estilo/saude/anvisa-aprova-semavy-novo-medicamento-com-semaglutida-da-hypera-pharma,bae1e821e6ca0dc9b82866e28b988ebdnd4e4xvo.html ; https://valor.globo.com/empresas/noticia/2026/07/29/em-parceria-com-laboratrio-adalvo-sandoz-ingressa-no-mercado-de-semaglutida-com-owozy.ghtml ; https://panoramafarmaceutico.com.br/eli-lilly-projeta-registro-da-retatrutida-para-2027/)
+
+**DaVita descredencia Hapvida da rede de hemodiálise** — HAPV3
+- **Resumo:** Segundo blog do O Globo/Capital, a DaVita, gigante de hemodiálise, descredenciou a Hapvida de sua rede.
+- **Por que importa:** Nome P2 coberto (Hapvida) com evento negativo de rede credenciada — reduz acesso de beneficiários a um provedor relevante de tratamento renal crônico, com potencial impacto reputacional/assistencial.
+- **Implicações:** Avaliar magnitude de exposição de sinistralidade em diálise na carteira da Hapvida e se há substituição por rede própria/parceiros alternativos; monitorar reação de reguladores (ANS) se houver reclamação de beneficiários.
+- **Confiabilidade:** Média-alta — Confirmado (mas sem detalhamento de motivo/escala no blurb disponível)
+- **Fonte:** O Globo (Blog Capital, via Bradesco BBI Healthcare Checkup) | 29-30/07/2026 | cobertura: 1 clipping
+- **Link:** https://oglobo.globo.com/blogs/capital/post/2026/07/davita-gigante-da-hemodialise-descredencia-hapvida.ghtml
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Hapvida revive marca NotreDame para planos premium** — HAPV3, RDOR3
+- **Resumo:** Segundo o Brazil Stock Guide, a Hapvida está revivendo a marca NotreDame para uma investida em planos de saúde premium — movimento também citado em relação à Rede D'Or.
+- **Por que importa:** Nome P2 coberto buscando fatiar o segmento premium/alta renda, historicamente dominado por operadoras verticalizadas de maior ticket médio (leitura competitiva também para Rede D'Or, P1).
+- **Implicações:** Se bem-sucedido, pode elevar ticket médio e margem da Hapvida no médio prazo; monitorar velocidade de execução e reação competitiva de Rede D'Or/SulAmérica/Bradesco Saúde no segmento premium.
+- **Confiabilidade:** Média — Análise (veículo especializado, sem confirmação oficial da companhia no blurb)
+- **Fonte:** Brazil Stock Guide (via Bradesco BBI Healthcare Checkup) | 30/07/2026 | cobertura: 1 clipping
+- **Link:** https://brazilstockguide.com/insights/hapvida-notredame-premium-health-plans/
+  [resumo do clipping — artigo não acessado integralmente]
+
+### Bens de Capital & Transporte
+
+**Motiva reporta 2T26 com EBITDA levemente abaixo do consenso mas lucro líquido acima do esperado** — MOTV3
+- **Resumo:** A Morgan Stanley reporta EBITDA ajustado pro-forma (ex-aeroportos) 4% abaixo do consenso, mas basicamente em linha com a própria estimativa; lucro líquido ajustado de R$663mi, 11% acima do consenso, com a batida atribuída a resultado financeiro melhor que o esperado. Capex ficou abaixo do consenso. A administração também divulgou premissas da oferta pela Fernão Dias, com TIR real alavancada projetada acima de 20%. O BTG, em nota própria, também revisou o 2T26 destacando "as vantagens de ser uma empresa mais simples".
+- **Por que importa:** Nome P1 core — combinação de EBITDA levemente fraco com lucro acima do esperado (via linha financeira) e capex disciplinado é leitura mista, mas o detalhe de TIR de Fernão Dias é o dado mais acionável para o valuation da concessão.
+- **Implicações:** Ajustar modelo para refletir menor CAPEX/maior resultado financeiro no trimestre; validar a TIR real alavancada de >20% em Fernão Dias contra premissas do book para o ativo.
+- **Confiabilidade:** Alta — Confirmado (resultado trimestral)
+- **Fonte:** Morgan Stanley / BTG Pactual (LatAm Transportation Clippings) | 29-30/07/2026 | cobertura: 2 clippings
+- **Link:** https://ny.matrix.ms.com/eqr/article/webapp/0f01390e-8797-11f1-907d-29b0f2de69f4?t=1785408549:6459:12273:4110bfc5bc64&m=1&ch=Outlook%20Blastmail#e=Z2ZyYW5jb0B2aW5jaWNvbXBhc3MuY29t
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Embraer soma demanda: ANA Holdings amplia pedido de E2 e Air Montenegro avalia primeira aeronave da marca** — EMBR3
+- **Resumo:** O BTG Pactual (Buy) reporta pedidos adicionais de jatos E2 pela ANA Holdings. Em outra nota do mesmo clipping, a Air Montenegro está avaliando a aquisição de sua primeira aeronave Embraer (aeronave de nova geração da família E2, para ampliar frota hoje composta por quatro E195 de primeira geração); o texto também cita, como pano de fundo setorial, que a Porter Airlines já recebeu 54 das 75 unidades firmes de E195-E2 encomendadas à Embraer.
+- **Por que importa:** Nome P1 core — dois sinais de demanda incremental por E2 em clientes distintos (ANA Holdings no Japão, Air Montenegro na Europa) reforçam o backlog e o funil comercial do programa E2.
+- **Implicações:** Positivo incremental para book-to-bill e para a tese de expansão de margem via maior taxa de produção; sem detalhe de quantidade/valor no blurb disponível — buscar confirmação de volume assim que o release oficial for divulgado.
+- **Confiabilidade:** Alta — Confirmado (nota do próprio banco cobrindo o nome, Buy)
+- **Fonte:** BTG Pactual (LatAm Capital Goods Clipping) | 29/07/2026 | cobertura: 1 clipping (BTG)
+- **Link:** http://url6009.btgpactual.com/ls/click?upn=u001.8kHVfpmJVwuWd-2BGZAuova5PD0wHqssCKzaiOpP1z4ZFqcwtSJZoCldj1DUmgRXZUIcuhh6lD-2FWv8iuHtqyQ1Wg-3D-3DzLg4_V3UXUSKpPmRYkpg5VTFJifQkSpfbFMWwAeUsvmlpj3y2F1hy2NZ9YnTX-2FMM3RXrWc8H-2BD2HipufaZsgZzmHKxgvN2O-2FER0Hr1pnRop9pPZ4BqU-2Ba7auL1kXMSVYZgK44K9xe6HJLlR9YjK3j3e-2F8QZAEGsUsv85xbGjx8LHcptpWfOptIzHUI-2BoqjaZkc1-2BWhMvq-2FDxGeBLrOuT23uY-2B7YeRh4-2B4HuGElqLrAg3jGso-3D
+  [resumo do clipping — artigo não acessado integralmente]
+
+### Petróleo & Gás
+
+**Petrobras: produção recorde no 2T26 reforça expectativa de dividendo robusto, mas oferta de gás da estatal recua** — PETR4
+- **Resumo:** O Seu Dinheiro destaca que a Petrobras entregou trimestre recorde em produção, com bancos já estimando quanto deve "pingar" na conta em dividendos. Em contraponto, a Brasil Energia noticia que a oferta de gás da Petrobras caiu no período (sem detalhe de magnitude no blurb).
+- **Por que importa:** Nome P1 core — produção recorde é o principal driver de caixa/dividendo do papel; a leitura mais fraca de oferta de gás merece monitoramento como possível vetor de pressão inflacionária sobre a molécula de gás/GNL doméstica (leitura cruzada com o caso Eneva-Vale acima).
+- **Implicações:** Reforça cenário de dividend yield elevado no curto prazo; validar se a queda de oferta de gás é pontual (manutenção) ou estrutural antes de qualquer revisão de estimativa de receita de gás natural.
+- **Confiabilidade:** Média-alta — Análise (estimativas de mercado sobre dividendo); Média — Confirmado (dado operacional de gás, sem magnitude detalhada)
+- **Fonte:** Seu Dinheiro / Brasil Energia (via BTG Commodities Daily) | 29-30/07/2026 | cobertura: 2 clippings
+- **Link:** https://www.seudinheiro.com/2026/empresas/vem-dividendo-gordo-ai-petrobras-petr4-entrega-trimestre-recorde-em-producao-e-bancos-ja-estimam-quanto-deve-pingar-na-conta-bdap/
+  [resumo do clipping — artigo não acessado integralmente]
+  (ver também: https://brasilenergia.com.br/petroleoegas/gas/cai-oferta-de-gas-da-petrobras)
+
+### Varejo & Tecnologia
+
+**Mercado Livre e Mercado Pago sofrem instabilidade generalizada nesta quarta-feira** — MELI34
+- **Resumo:** A Folha de S.Paulo reporta pico de reclamações no Downdetector por volta das 18h de quarta-feira (29/07): 596 relatos para o Mercado Pago e 129 para o Mercado Livre. A própria XP Research já havia sinalizado o episódio no clipping de varejo do dia.
+- **Por que importa:** Nome P1 core — instabilidade operacional em plataformas críticas de pagamento/marketplace gera risco reputacional e de churn, ainda que pontual.
+- **Implicações:** Monitorar se há recorrência do problema técnico e eventual impacto em GMV/TPV do dia; sem indicação, pelo blurb, de perda material de transação.
+- **Confiabilidade:** Alta — Confirmado (dados de monitoramento público, Downdetector)
+- **Fonte:** Folha de S.Paulo / XP Research Retail (via XP Retail News) | 29-30/07/2026 | cobertura: 2 clippings
+- **Link:** https://www1.folha.uol.com.br/tec/2026/07/mercado-livre-e-mercado-pago-tem-instabilidade-nesta-quarta-29.shtml
+  [resumo do clipping — artigo não acessado integralmente]
+
+**Encomendas internacionais saltam 42% após fim da "taxa das blusinhas", aponta XP Retail** — Tema setorial (leitura para LREN3, CEAB3, AZZA3, MGLU3)
+- **Resumo:** O relatório "XP Retail News" do dia traz como manchete que encomendas internacionais subiram 42% após o fim da chamada "taxa das blusinhas" (tributação sobre pequenas remessas importadas). A Estadão, em paralelo, noticia que a Shopee abriu 10 novos centros de distribuição no Brasil em 2026 (de 16 para 26 unidades, alta de mais de 60%, com operações de cross-docking e fulfillment).
+- **Por que importa:** Tema Tier 2 direto para o varejo de moda/vestuário e marketplaces domésticos — retomada de importação de baixo ticket + expansão logística agressiva da Shopee intensifica a pressão competitiva sobre Renner, C&A, Azzas 2154 e Magazine Luiza.
+- **Implicações:** Monitorar volume de GMV internacional vs. doméstico nos próximos releases de varejo de moda; a expansão logística da Shopee (60%+ de capacidade) é um sinal de investimento estrutural, não sazonal, na concorrência de e-commerce cross-border.
+- **Confiabilidade:** Alta — Confirmado (dados de comércio exterior e expansão operacional)
+- **Fonte:** XP Research Retail / Estadão (via XP Retail News) | 30/07/2026 | cobertura: 2 clippings
+- **Link:** https://www.estadao.com.br/economia/negocios/shopee-abre-10-centros-distribuicao-mercadorias-2026/
+  [resumo do clipping — artigo não acessado integralmente]
+
+### Bancos
+
+**Santander Brasil: ROE só deve normalizar em 2027, diz Morgan Stanley após call do 2T26** — SANB11
+- **Resumo:** A Morgan Stanley traz destaques da conference call do 2T26: a administração espera que o ROE volte a níveis mais normalizados em 2027, conforme a performance das safras de crédito mais novas melhore — mas o timing segue incerto e depende de condições macro, custo de crédito e da velocidade com que os benefícios do reposicionamento de portfólio aparecem no resultado.
+- **Por que importa:** Nome P2 coberto — sinaliza que a recuperação de rentabilidade do banco é uma tese de médio prazo (2027), não um catalisador imediato de curto prazo.
+- **Implicações:** Moderar expectativas de re-rating rápido do papel; monitorar trimestre a trimestre a evolução do custo de crédito e a maturação das novas safras como termômetro do cronograma de normalização do ROE.
+- **Confiabilidade:** Alta — Confirmado (destaques de call, comentário de management)
+- **Fonte:** Morgan Stanley (LatAm Daily) | 29/07/2026 | cobertura: 1 clipping
+- **Link:** https://ny.matrix.ms.com/eqr/article/webapp/d1a4e538-875f-11f1-907d-29b0f2de69f4?t=1785408549:6459:12273:4110bfc5bc64&m=1&ch=Outlook%20Blastmail#e=Z2ZyYW5jb0B2aW5jaWNvbXBhc3MuY29t
+  [resumo do clipping — artigo não acessado integralmente]
+
+### Frigoríficos
+
+**JBS: PPC entrega EBITDA em linha no 2T26, mas litígios trazem leitura líquida negativa** — JBSS3
+- **Resumo:** A Morgan Stanley reporta que o EBITDA ajustado da Pilgrim's Pride (PPC, subsidiária da JBS nos EUA) ficou próximo do consenso, com a operação americana melhorando mais rápido que o esperado — o ponto mais positivo, na visão do banco. Por outro lado, despesas com litígios podem pressionar o sentimento e, dado o rali recente da JBS, o banco não se surpreenderia com alguma pressão no papel no curto prazo.
+- **Por que importa:** Nome P1 core — resultado operacional da subsidiária americana é sólido, mas o overhang de litígios é o fator que deve dominar a reação do mercado no curto prazo.
+- **Implicações:** Risco de correção técnica de curto prazo em JBSS3 após rali recente, mesmo com operação subjacente saudável; monitorar magnitude e provisionamento dos litígios nos próximos releases.
+- **Confiabilidade:** Alta — Confirmado (resultado trimestral)
+- **Fonte:** Morgan Stanley (LatAm Daily) | 29/07/2026 | cobertura: 1 clipping
+- **Link:** https://ny.matrix.ms.com/eqr/article/webapp/cecd05f0-8b67-11f1-b78c-cd9c37049687?t=1785408549:6459:12273:4110bfc5bc64&m=1&ch=Outlook%20Blastmail#e=Z2ZyYW5jb0B2aW5jaWNvbXBhc3MuY29t
+  [resumo do clipping — artigo não acessado integralmente]
+
+## 3. Menções secundárias
+
+- Enel Américas aprova buyback de 5% das ações com prêmio de 15% e bate EBITDA ajustado no 2T26; Enel SP quase triplica lucro e Enel Rio reduz prejuízo (peer regional) — https://ny.matrix.ms.com/eqr/article/webapp/a3dbaa74-8b9c-11f1-b78c-cd9c37049687?t=1785408549:6459:12273:4110bfc5bc64&m=1&ch=Outlook%20Blastmail#e=Z2ZyYW5jb0B2aW5jaWNvbXBhc3MuY29t
+- Citi inicia cobertura da Compass Gás e Energia (PASS3, Cosan) com recomendação de compra — https://www.citivelocity.com/rendition/eppublic/documentService/dXNlcl9pZD01cEcxUjJPZmdGX2JHY2xOeXFaRGo3cnp2bHpoazk4ZCZlbWFpbF9zZW5kX2lkPTQxNzI5MTE1OTQmdj0x/Y2xpZW50U3lzdGVtSWQ9U0wmYmxhc3RLZXk9MTI1ODIzMDQmRU5BQkxFX1JFTkRJVElPTl9JRlJBTUVfUEVSU09OQUxJWkFUSU9OPU4mcGFyZW50X2RvY19pZD1TTC0xMjg0NDI1NCZ2PTEmZG9jX2lkPTMwNDM3OTEwJnBsYXRmb3JtPTY5JmNsaWVudEJsYXN0SWQ9U0wtMTI1ODIzMDQ
+- CNI: mercado livre de energia já atrai 41% da indústria e reduz conta de luz de 73% dos que migraram, mas "jabutis" no projeto de abertura preocupam o setor — https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWxnZzdsZFFEVGRCbV9qMF81c29NOTBiNXNmN192UnFOX1dGVE1uZU9SUEstc0xEYUhUekxtYXlDcktDTFJRX2g2SlU5WGRocWlTbGVqNlM0OFZsVHJ0OEY5bThfbVU4elhKMU9uRjA0UVNvcVllN0I2eWlnN3Z2bVNPS25PV3YxeWJMakU2TEhsY1JmVHR3NHN4eTdaZ0hQRDNKblgyZXRQQ0pSZGl2Uzd4NHNJYkxC?oc=5
+- Neoenergia pede regras claras (SUI) na abertura do mercado livre de energia — https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmpMbmY4TTVFWmFfU2tQMGZINHJESDlSaWU5UEp0MDQ0NUNKUVNNWGpYay1kTTlVQ3BxRFk2OEZJWHc2NmtFSGJqcHA1NHJDTXBBWWFHNVNJV1hLYlY4T0pYUXc4NElnczExUXhQRWdYUHBObU53X01raU1MS1FiSTV3STd6QTIyVHdfWlFBZmxrMFp4d19KUzRzY1JZZEQyVFAwZmEwOHlkZVlD?oc=5
+- Reforma tributária: notas fiscais com CBS/IBS destacados terão implantação em quatro fases a partir de agosto — https://valor.globo.com/legislacao/noticia/2026/07/29/notas-fiscais-com-destaque-da-cbs-e-do-ibs-terao-implantacao-em-quatro-fases-a-partir-de-agosto.ghtml
+- PEC do fim da escala 6x1 segue parada há dois meses no Senado, sem relator designado — https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/pec-do-fim-da-escala-6x1-esta-parada-ha-dois-meses-no-senado.ghtml
+- Braskem: após novo fracasso em negociações, aproxima-se de recuperação judicial (leitura para participação minoritária da Petrobras) — https://valor.globo.com/empresas/noticia/2026/07/29/aps-novo-fracasso-em-negociaes-braskem-fica-mais-perto-de-recuperao-judicial-dizem-fontes.ghtml
+- BNDES aprova R$20bi para renovação de frota de caminhões e ônibus (leitura para Marcopolo) — http://url6009.btgpactual.com/ls/click?upn=u001.8kHVfpmJVwuWd-2BGZAuova-2BJEkzbrSJQMOg1VhUWhGIbmRgkzp7HVghhIOeuYiS4rIEbvvrqsLML3BxjrDEPML1pEFuG0QIf2CJL-2B5EiRtBmdyofiwGSOtbhbOxG4shAEKBnhhG0gtoNCdkBPHPw90KTV-2FY2B-2BatGswrVek8KOU6tBKQpF3bFSHcRf1RK9udMmcBS3dVnXGHMJUUpf7XhK6XR4c9am7k16HItPYkbPtlRSrsA3gFX5MX-2FgKNAF-2B5RxVS2-2F0dTTfSU3vWTpATNUEVAkJzmbf1i-2FBmop8h3pSU-3Dt55V
+- Airbus (Buy, BTG): revisão de resultado do 2T com batida de earnings e destaques do call (peer global de Embraer) — http://url6009.btgpactual.com/ls/click?upn=u001.8kHVfpmJVwuWd-2BGZAuova5PD0wHqssCKzaiOpP1z4ZFqcwtSJZoCldj1DUmgRXZU5TtymAEB28hyBht15O-2FbPA-3D-3Df8r4
+- Anac restringe venda de passagens da argentina Flybondi no Brasil após 79% dos voos registrados serem cancelados (leitura de disciplina de capacidade para Azul/Gol) — http://url6009.btgpactual.com/ls/click?upn=u001.8kHVfpmJVwuWd-2BGZAuova08s3-2FsG7-2Bcj7HEIb-2FJf1XwgO5gUzqTzX7eVWG7MjqnpcAgf3fIg1mDAOjnUkSLuGwpsDLRo1ETqzOc0ivNPpuOQwu6RN6-2BusMPUsxHFtmNi-2FbxsfJ5FNftoXI0bcJnNkA-3D-3DOGn_
+- Air France e Lufthansa apresentam propostas pela privatização parcial da TAP Air Portugal — http://url6009.btgpactual.com/ls/click?upn=u001.8kHVfpmJVwuWd-2BGZAuova8Aq4vTR33a-2FPSuJ-2Fhwryp7z6uS6f8hFyFRwv0NRKdTeyDaTmr1YDbF074H1oWDnUbZbS6fss8iVTj9fwyru-2FWEap006AiwfwVEZ-2B7dcxwYa02OWeqCO5lC3R3KsdwFzUB65BvjmjjIuYUeNsU3pGICKTjuoVoAV8caBFRtoabxzuSgutzuVtTU-2ByZ2DfhveWg-3D-3Dx1C2
+- Anglo American: prejuízo de US$858mi no H1, mas eleva dividendo; fusão com a Teck aguarda aprovação chinesa — https://valor.globo.com/empresas/noticia/2026/07/30/anglo-american-v-transformao-no-rumo-certo-aps-reduo-de-544-pontos-percentuais-do-prejuzo-lquido.ghtml
+- Cotas de importação de aço no Brasil são reduzidas em 11% — leitura positiva marginal para Gerdau/CSN/Usiminas — https://www.steelorbis.com/steel-news/latest-news/steel-import-utilization-quotas-show-continued-progress-in-brazil-1467775.htm
+- 99 anuncia expansão de delivery de farmácia em São Paulo (RADL3, PGMN3, PNVL3) — https://guiadafarmacia.com.br/99-anuncia-expansao-de-delivery-de-farmacia-em-sao-paulo/
+- Mercado Livre propõe operação própria de farmácia no Chile — https://www.cnnbrasil.com.br/economia/negocios/mercado-livre-propoe-operacao-propria-de-farmacia-no-chile/
+- Apreensões de remédios emagrecedores saltam em 2026 e superam o total de 2025, diz Polícia Federal — https://g1.globo.com/politica/noticia/2026/07/27/apreensoes-de-remedios-emagrecedores-saltam-em-2026-e-superam-o-total-de-2025-diz-pf.ghtml
+- Pernambucanas troca CEO e CFO, trazendo executivos ex-GPA — https://valor.globo.com/empresas/noticia/2026/07/29/pernambucanas-troca-ceo-e-diretor-financeiro-e-traz-ex-gpa.ghtml
+- Crise do Habib's: grupo controlador obtém recuperação judicial/proteção contra credores por 60 dias — https://pipelinevalor.globo.com/negocios/noticia/crise-do-habibs-a-conta-da-esfiha-a-r-019-chegou.ghtml
+- Ouro estável enquanto mercado avalia mensagem de Warsh sobre inflação pós-decisão do Fed — https://www.reuters.com/world/india/gold-edges-higher-markets-weigh-warshs-inflation-message-after-fed-decision-2026-07-30/
+
+---
+
+*Digest gerado automaticamente a partir dos e-mails de clipping recebidos em equitiesvc@gmail.com nas últimas 12h. A maioria dos itens está marcada como "resumo do clipping — artigo não acessado integralmente": as tentativas de acesso direto às matérias-fonte retornaram erro de rede neste ciclo, então os resumos refletem o texto/blurb capturado nos próprios e-mails de clipping, não a leitura integral dos artigos. Nenhum link foi reconstruído ou inventado — todas as URLs foram copiadas literalmente dos e-mails de origem.*
