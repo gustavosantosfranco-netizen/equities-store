@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-31",
+  "runs": {
+    "incremental": {
+      "since": "2026-07-31T11:15:00Z",
+      "itemCount": 7,
+      "tickers": [
+        "VALE3",
+        "USIM5",
+        "SANB11",
+        "ABEV3",
+        "MULT3",
+        "RAIZ4",
+        "EMBR3"
+      ],
+      "generatedAt": "2026-07-31T11:54:22.937Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
