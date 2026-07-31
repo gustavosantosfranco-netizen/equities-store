@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-31",
+  "runs": {
+    "full": {
+      "window": "12h",
+      "mailbox": "equitiesvc@gmail.com",
+      "recipients": [
+        "equities@vincicompass.com",
+        "mlins@vincicompass.com"
+      ],
+      "itemCount": 15,
+      "tickers": [
+        "SBSP3",
+        "EMAE4",
+        "ENEV3",
+        "CMIG4",
+        "CPLE6",
+        "EGIE3",
+        "ISAE4",
+        "TAEE11",
+        "BBDC3",
+        "BBDC4",
+        "BBAS3",
+        "ITUB4",
+        "BPAC11",
+        "VALE3",
+        "USIM5",
+        "PETR3",
+        "PETR4",
+        "ABEV3",
+        "HAPV3",
+        "MULT3",
+        "AZUL4",
+        "GOLL4",
+        "ECOR3"
+      ],
+      "generatedAt": "2026-07-31T11:32:03.045Z",
+      "files": {
+        "md": "full.md",
+        "html": "full.html"
+      }
+    }
+  }
+}
