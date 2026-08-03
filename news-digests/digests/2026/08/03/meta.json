@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-03",
+  "runs": {
+    "incremental": {
+      "since": "2026-08-03T11:15:00Z",
+      "itemCount": 2,
+      "tickers": [
+        "RADL3",
+        "EQTL3",
+        "ENGI11",
+        "CMIG4",
+        "CPLE6",
+        "ELET3",
+        "SBSP3"
+      ],
+      "generatedAt": "2026-08-03T11:52:45.289Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
