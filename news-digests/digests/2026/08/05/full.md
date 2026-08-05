@@ -1,0 +1,279 @@
+# Digest de Notícias — 2026-08-05
+
+## 1. Resumo executivo
+
+Noite pesada de resultados do 2T26 domina o fluxo: Gerdau, Itaú, Raia Drogasil, C&A, GPA, Iguatemi, Tenda e PetroRio reportaram, com o destaque negativo do dia sendo o corte de guidance de tarifas e seguros do Itaú (para 2-5%, de 5-9%) por atividade de mercado de capitais mais fraca — o primeiro sinal negativo específico do trimestre em um banco âncora. Do lado operacional, a leitura foi majoritariamente positiva: Gerdau, Raia Drogasil, Iguatemi, Tenda e PetroRio bateram expectativas, com destaque para a forte geração de caixa em RD e PRIO e a elevação de guidance de lucro da Tenda. Pano de fundo mais desafiador: produção industrial de junho caiu 1,8% MoM (pior leitura desde dez/25) às vésperas do Copom desta noite, e a tensão diplomática Brasil-EUA escalou após os EUA revogarem o visto da embaixadora brasileira em Washington. Na frente corporativa, Motiva recebeu resposta do Grupo Mover à proposta de renovação do acordo de acionistas, mas o teor da resposta não foi revelado no filing — story em aberto para acompanhar.
+
+**Destaques do dia:**
+- Preços de carros novos caem no Brasil por ofensiva chinesa — pressão de depreciação sobre Localiza e Movida
+- Motiva recebe carta do Grupo Mover sobre renovação do Acordo de Acionistas — teor não revelado
+- Embraer vende 2 KC-390 Millennium para a Colômbia
+- Grupo GPS: feedback de reunião — ano de ajuste, tailwinds estruturais à frente
+- LATAM Airlines bate estimativas e revisa guidance para cima — read-through para Azul, Gol e Embraer
+- Raia Drogasil (RD Saúde) — forte geração de caixa e GLP-1 ofuscam lucro líquido levemente mais fraco
+- BradSaúde — lucro líquido +25% no 2T26, sinistralidade sob controle
+- Mais concorrência para Ozempic: Anvisa pode aprovar 8 novas canetas até fim do ano
+- Gerdau — beat de EBITDA puxado pela América do Norte, dividendo abaixo do consenso
+- Minério de ferro recua ainda mais com embarques em alta de Vale e Austrália
+- CSN avalia vender negócio de cimento — propostas vencem nesta sexta
+- Tensão diplomática Brasil-EUA escala; risco de novas sanções
+- Produção industrial de junho cai 1,8% MoM às vésperas do Copom desta noite
+- Itaú corta guidance de tarifas e seguros para 2026, para 2-5% (de 5-9%)
+- Nubank México: alavancagem operacional melhora, mas qualidade de ativos piora
+- C&A — resultado em linha sobre base de comparação difícil
+- GPA — avanço na recuperação extrajudicial em meio a vendas mesmas lojas mais fracas
+- PetroRio — FCFE em tendência de alta, TP YE27 introduzido em R$56/ação
+- Petrobras pode estudar investir em GNL fora do Brasil em meio à discussão do "Gas Release"
+- Totvs cancela ações em tesouraria e lança novo buyback de até 30 milhões de ações
+- Weg — leilão de baterias (BESS) atrai oferta recorde de projetos
+- Eneva — Aneel autoriza início de operação comercial da UTE Azulão I
+- Taesa — ONS autoriza energização de projetos, +R$141,9mn de RAP
+- Tenda — beat forte de 10% no 2T26, guidance de lucro elevado em 12,5%
+- Iguatemi — resultado em linha, qualificação de portfólio funcionando
+- TIM lança planos "TIM Fit" abaixo do nível de preço de Vivo e Claro
+
+## 2. Destaques
+
+### Transporte / Industrials
+
+**Preços de carros novos caem no Brasil por ofensiva de preço de montadoras chinesas** — RENT3, MOVI3
+- **Resumo:** BYD, a JV estendida GM-Saic e a Tesla China (+37,8% vendas em julho) intensificam a guerra de preços; vendas de veículos leves no Brasil subiram 15% YoY em julho, com marcas chinesas atingindo share recorde de 22,8%. Novos entrantes (Dongfeng) negociam produção local com Nissan/Stellantis.
+- **Por que importa:** pressiona diretamente o valor residual das frotas de locadoras.
+- **Implicações:** BBI aponta pressão adicional sobre a depreciação de Localiza (OP, R$58,00) e Movida (OP, R$16,00); tarifas de importação plenas, quando implementadas, podem limitar o piso de preço.
+- **Confiabilidade:** Alta — Confirmado (dados de mercado) / Análise (leitura do banco)
+- **Fonte:** Bradesco BBI Daily + BTG Capital Goods Clipping | 04-05/08 | cobertura: 2 clippings
+- **Link:** https://www1.folha.uol.com.br/mercado/2026/08/precos-de-carros-novos-caem-no-brasil-pressionados-por-estrategia-chinesa.shtml
+
+**Motiva recebe carta do Grupo Mover sobre renovação do Acordo de Acionistas** — MOTV3
+- **Resumo:** Em continuidade ao Fato Relevante de 3/8, a Motiva informou ter recebido, após o fechamento do pregão de 4/8, carta do "Grupo Mover" (Sucea e Sincro Participações, ambas em recuperação judicial) em resposta à manifestação de renovação do Acordo de Acionistas enviada pelo "Grupo Soares Penido", Votorantim e Itaúsa.
+- **Por que importa:** disputa em curso pelo bloco de controle da companhia.
+- **Implicações:** o texto do comunicado não revela se a resposta do Grupo Mover é aceite, recusa ou mera confirmação de recebimento — acompanhar o próximo Fato Relevante para saber o teor; risco de instabilidade no bloco de controle caso não haja renovação.
+- **Confiabilidade:** Primária (CVM) — Confirmado apenas quanto ao recebimento/encaminhamento da carta [conteúdo do filing não detalha a posição do Grupo Mover]
+- **Fonte:** CVM / Companies Radar | 04/08 21:14 | cobertura: 1 filing
+- **Link:** http://url191.info.vincicompass.com/ls/click?upn=u001.dpddTz-2B73drNCbhC8MnqAMZZ0Y56RbYxl-2B-2FJKSqKjRcCF3qz-2Bd9eSXkPnHOurjE1SRObB47i18HxXsZQnAaIn7pFfjFe2TZTPT0n-2BmIMdZc-3DQkFP_ROYcHZmklH-2FI1tcanJkglElrmYdhj-2B2f7ah0r-2BvwRNF-2FXXB2JupfkYm7lozFHOr9uuMtBTAricCHvE3DvGlqaySM4Rebf5uI9MMJxuxTQuRtmRSBu05xsHbGTWDbKr5-2FrcMugf-2F0ExM2tXOhSbAL7uCkxTSejhqKDo6jeFYWiA8KViY7TCGOKNIBECLPtUsAECsz-2FEYHHmGMQPYoCRnoMg-3D-3D
+
+**Embraer vende 2 KC-390 Millennium para a Colômbia** — EMBR3
+- **Resumo:** Contrato assinado com a Força Aérea colombiana; a Colômbia é o primeiro país latino-americano fora do Brasil a adquirir a aeronave (13º país no mundo a selecioná-la), com cláusulas de conteúdo local/cooperação industrial.
+- **Por que importa:** valida a tese de defesa como driver de backlog.
+- **Implicações:** positivo incremental para o backlog de defesa; sem impacto relevante de curto prazo na receita.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Bradesco BBI Daily + BTG Capital Goods Clipping + MS LatAm Daily | 04-05/08 | cobertura: 3 clippings
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/54b2527c-6da0-449f-b8fb-aed6f15d5f31
+
+**Grupo GPS — feedback de reunião com management: ano de ajuste, tailwinds estruturais à frente** — GGPS3
+- **Resumo:** BBI hospedou reunião com CFO/IR; destacou três alavancas de valor — recuperação de margem da GRSA esperada após o 3T26, motor de M&A ativo e a reforma tributária como tailwind estrutural (crédito fiscal favorece terceirização).
+- **Por que importa:** tese de reforma tributária como catalisador setorial para o nome.
+- **Implicações:** monitorar renegociação de contratos da GRSA no 2S26 como gatilho de margem; BBI mantém Outperform, TP R$20,00 (YE26).
+- **Confiabilidade:** Alta — Análise (feedback de reunião, visão do banco)
+- **Fonte:** Bradesco BBI Daily (Transportation) | 05/08 | cobertura: 1 clipping
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/pdf/ad27bc9b-89ac-4f83-a319-696fd06c5982/13dec764-3c74-476d-8290-16c710da12c9
+
+**LATAM Airlines bate estimativas e revisa guidance para cima** — read-through AZUL4, GOLL4, EMBR3
+- **Resumo:** Receita 7-9% acima do consenso; EPADS de US$0,44 vs. consenso de US$0,32; guidance 2026 revisado aponta upside de ~11%/6% para EBIT/EBITDA do modelo da MS. Companhia ainda avalia linha de crédito do BNDES para custo de combustível; 42 rotas já anunciadas para o E195-E2 da Embraer.
+- **Por que importa:** sinaliza ambiente de custo de combustível e yield para Azul e Gol, e reforça a demanda pelo E195-E2 da Embraer.
+- **Implicações:** leitura positiva de yield/custo para o setor aéreo brasileiro; sem impacto direto em nome coberto além do read-through.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily + BTG Transportation Clipping | 04-05/08 | cobertura: 3 clippings
+
+### Saúde / Farma
+
+**Raia Drogasil (RD Saúde) — forte geração de caixa e GLP-1 ofuscam lucro líquido levemente mais fraco** — RADL3
+- **Resumo:** Receita bruta com GLP-1 de marca cresceu 24,3%; MSSS de 10,9% (1,2pp acima do esperado pela BBI, 2,2pp acima do consenso); fluxo de caixa operacional +115% YoY, a R$779mn. EBITDA ajustado 1% abaixo do esperado; lucro líquido ajustado ex-4Bio 4% abaixo — miss pontual, não estrutural.
+- **Por que importa:** valida GLP-1 como driver estrutural de receita no maior nome de farma coberto.
+- **Implicações:** revisar múltiplo de FCFE/deleveraging para cima; o miss de lucro líquido é conjuntural (item 4Bio), não deve alterar a tese de médio prazo.
+- **Confiabilidade:** Alta/Primária — Confirmado
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily + CVM/Companies Radar (ITR) | 04-05/08 | cobertura: 3 fontes
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/3e269b4b-9a46-4e24-8f6a-afc4fd1757f3
+
+**BradSaúde — lucro líquido +25% no 2T26, sinistralidade sob controle**
+- **Resumo:** Receita +11% YoY, a R$13,9bi; lucro líquido +25% YoY, a R$1,1bi; 229 mil adições líquidas de vidas (99 mil saúde, 130 mil odonto); sinistralidade consolidada de 83,8% (+1,7pp YoY). Atlântica Hospitais teve lucro líquido de R$64mn (+312% YoY), elevando sua participação no lucro consolidado de 2% para 6%.
+- **Por que importa:** resultado forte de operadora de saúde coberta, sem cobertura sell-side nos clippings de hoje — informação exclusiva do filing.
+- **Implicações:** crescimento de PMEs (>3 milhões de vidas, dois dígitos YoY) desponta como novo vetor de crescimento; monitorar repasse de sinistralidade no 2S26.
+- **Confiabilidade:** Primária (CVM) — Confirmado
+- **Fonte:** CVM / Companies Radar (release 2T26) | 04/08 21:12 | cobertura: 1 filing
+- **Link:** http://url191.info.vincicompass.com/ls/click?upn=u001.dpddTz-2B73drNCbhC8MnqAMZZ0Y56RbYxl-2B-2FJKSqKjRcCF3qz-2Bd9eSXkPnHOurjE1SRObB47i18HxXsZQnAaInzyAj01JAu0b2wEr1GOCBBc-3DR2Zu_ROYcHZmklH-2FI1tcanJkglElrmYdhj-2B2f7ah0r-2BvwRNHNsYf0gbwl6K6l2O22qLHku7sq20nbm1gBH7bsocVhgtRad8xbxjDmP3SJl2nz-2BKjLSIqzO54a3ZDKSoDcNh18XvNLyiKeDF-2F-2BcjeaOkvZnQUuPf5up1sgypg4KG-2BhsKISHLWg5FsyGqP0ydGp4GT5D0raMtWA3uKvnRH2Q9LWrg-3D-3D
+
+**Mais concorrência para Ozempic: Anvisa pode aprovar 8 novas canetas até fim do ano** — HYPE3, RADL3, PGMN3, PNVL3
+- **Resumo:** Anvisa avalia aprovar até 8 novas canetas genéricas de liraglutida/semaglutida ainda em 2026.
+- **Por que importa:** risco competitivo direto sobre a margem da categoria GLP-1 nas farmácias.
+- **Implicações:** read-through misto — positivo para volume/tráfego em RADL, potencialmente negativo para o preço médio da categoria à medida que a concorrência genérica aumenta.
+- **Confiabilidade:** Média-alta — Rumor/especulação (aprovação regulatória futura, ainda não confirmada) [resumo do clipping — artigo não acessado integralmente]
+- **Fonte:** Bradesco BBI Healthcare Checkup (Money Times) | 05/08 | cobertura: 1 clipping
+- **Link:** https://www.moneytimes.com.br/anvisa-pode-aprovar-8-novas-canetas-de-liraglutida-e-semaglutida-ate-o-fim-do-ano/
+
+### Siderurgia / Mineração
+
+**Gerdau — beat de EBITDA puxado pela América do Norte, dividendo abaixo do consenso** — GGBR4
+- **Resumo:** EBITDA reportado 5% acima do consenso e 4% acima da BBI, com margem Brasil subindo a ~9,5%; dividendo aprovado de R$0,23/ação, abaixo do consenso de R$0,31; aprovado cancelamento de 163 mil ações ON e 9.975 mil PN.
+- **Por que importa:** validação da tese doméstica + América do Norte no nome mais coberto do setor.
+- **Implicações:** viés de revisão de EBITDA 2S26 para cima; política de proventos abaixo do consenso é ponto de atenção para o retorno ao acionista no curto prazo.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily + Citi Earliest Bird | 04-05/08 | cobertura: 3 clippings
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/50b6445e-7aaa-458a-84cf-2518683b6250
+
+**Minério de ferro recua ainda mais com embarques em alta de Vale e Austrália** — read-through VALE3
+- **Resumo:** Embarques totais de minério (27/jul-2/ago) somaram 27,2mt; embarques de Vale subiram 24% na semana, a 7,2mt; preços seguem em queda por dados de demanda fracos.
+- **Por que importa:** leitura direta de preço realizado para o maior nome de commodities coberto.
+- **Implicações:** pressão de curto prazo sobre o preço realizado de minério da Vale; oferta elevada de Vale e Austrália deve persistir nas próximas semanas.
+- **Confiabilidade:** Alta — Confirmado (dados de embarque)
+- **Fonte:** Bradesco BBI Daily | 05/08 | cobertura: 1 clipping
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/9e867991-e57e-42fd-a394-a57c84ed7225
+
+**CSN avalia vender negócio de cimento — propostas vencem nesta sexta** — CSNA3
+- **Resumo:** Bids pela divisão de cimento da CSN vencem sexta-feira (7/8); companhia avalia manter fatia minoritária no negócio. Ação reagiu +6,21% no pregão.
+- **Por que importa:** monetização de ativo não-core, com potencial de redução de alavancagem.
+- **Implicações:** desfecho do processo (venda total vs. parcial) deve ser o próximo catalisador de curto prazo para o nome; sem confirmação de valor ou comprador nesta janela.
+- **Confiabilidade:** Alta — Confirmado quanto ao processo em curso, sem definição de desfecho
+- **Fonte:** Bradesco BBI Mkt Color + MS LatAm Daily | 04-05/08 | cobertura: 2 clippings
+
+### Macro
+
+**Tensão diplomática Brasil-EUA escala; risco de novas sanções** — contexto macro/câmbio
+- **Resumo:** EUA revogaram o visto da embaixadora do Brasil em Washington; Brasília rejeitou a decisão e classificou como "escalada deliberada", em resposta à negativa de vistos para dois diplomatas americanos — governo brasileiro se prepara para possíveis novas sanções dos EUA, incluindo risco de sanção Magnitsky contra o ministro Alexandre de Moraes. Paralelamente, o Brasil rebaixou a relação diplomática com a Argentina após ataques repetidos de Milei a Lula. No campo eleitoral, nova pesquisa Genial/Quaest mostrou a vantagem de Lula no 2º turno encolhendo para 44%-39% (de 45%-37% em julho).
+- **Por que importa:** eleva o prêmio de risco político brasileiro às vésperas da eleição presidencial.
+- **Implicações:** pressão adicional sobre o câmbio (real já acima de R$5,14/USD) e sobre o prêmio de risco-Brasil; monitorar reação de bancos e do Ibovespa como um todo.
+- **Confiabilidade:** Alta — Confirmado (fatos diplomáticos e pesquisa divulgada); Análise para desdobramentos futuros
+- **Fonte:** Bradesco BBI Mkt Color + MS LatAm Daily | 05/08 | cobertura: 2 clippings
+
+**Produção industrial de junho cai 1,8% MoM às vésperas do Copom desta noite**
+- **Resumo:** Pior queda mensal desde dezembro/2025, ante expectativa de -0,9%; bens de consumo semi/não duráveis -4,1%, duráveis -3,2%. O Copom decide a Selic hoje à noite — fora da janela desta edição — com o mercado precificando corte de 25bp, para 14%; nenhum clipping desta janela confirma o resultado.
+- **Por que importa:** reforça a leitura de desaceleração da atividade doméstica no dia da decisão de juros.
+- **Implicações:** viés dovish adicional para a trajetória da Selic; negativo para consumo discricionário e industriais de forma geral.
+- **Confiabilidade:** Alta — Confirmado (dado oficial de produção); decisão do Copom em si é Rumor/especulação (expectativa de mercado, não confirmada nesta janela)
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily | 04-05/08 | cobertura: 2 clippings
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/cc252154-939f-43fc-a93c-a09dea377d3e
+
+### Bancos
+
+**Itaú corta guidance de tarifas e seguros para 2026, para 2-5% (de 5-9%)** — ITUB4
+- **Resumo:** Motivo declarado: atividade de mercado de capitais mais fraca que o esperado; demais linhas de guidance foram reafirmadas. No 2T26, lucro gerencial de R$12.407mn (+1% QoQ, +8% YoY), 1% abaixo do consenso; ROE de 26,0% (vs. 26,9% no 1T26); inadimplência estável.
+- **Por que importa:** primeiro sinal negativo específico do trimestre em um banco âncora da carteira.
+- **Implicações:** revisar a linha de receita de serviços/seguros para 2026-27 para baixo; ROE elevado e qualidade de crédito benigna seguem sustentando a tese core do papel.
+- **Confiabilidade:** Alta — Confirmado (guidance revisado divulgado pela própria empresa)
+- **Fonte:** Bradesco BBI Mkt Color + Bradesco BBI Daily + MS LatAm Daily | 04-05/08 | cobertura: 3 clippings
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/e5ef5686-29ab-4b18-915d-bb825a2db79e
+
+**Nubank México: alavancagem operacional melhora, mas qualidade de ativos piora**
+- **Resumo:** Carteira de crédito no México cresceu 8,2% QoQ; índice de inadimplência (NPL) subiu para 6,6% (de 5,7%); depósitos contraíram 6,0% QoQ. Ação caiu 0,76% no pregão.
+- **Por que importa:** sinal de deterioração de crédito em um dos mercados-chave de expansão do banco.
+- **Implicações:** monitorar a trajetória de NPL no México nos próximos trimestres antes de validar a tese de alavancagem operacional na operação internacional.
+- **Confiabilidade:** Alta — Confirmado (dados operacionais divulgados)
+- **Fonte:** Bradesco BBI Daily | 05/08 | cobertura: 1 clipping
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/47b25fb3-9ac2-479b-b3ac-69d2ef17506b
+
+### Varejo
+
+**C&A — resultado em linha sobre base de comparação difícil** — CEAB3
+- **Resumo:** Comp de vestuário +4,1% (vs. consenso de +4,0%, MS-e de +4,5%), sobre base de comparação de +17,0% no ano anterior; EBITDA ajustado -1% YoY, com ganho de margem bruta compensando desalavancagem de SG&A. BBI classificou como resultado "misto, com capital de giro e FCF fracos".
+- **Por que importa:** base de comparação recua de +17% para próxima de +4% no 2S26, o que pode facilitar reaceleração.
+- **Implicações:** monitorar capital de giro/geração de caixa (ponto fraco do trimestre) frente à melhora estrutural de margem bruta; valuation em ~5,6x P/E 2026E segundo a MS.
+- **Confiabilidade:** Alta/Primária — Confirmado
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily + CVM/Companies Radar | 04-05/08 | cobertura: 3 fontes
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/b22589da-1070-416d-abb7-07fd6d0b7305
+
+**GPA — avanço na recuperação extrajudicial em meio a vendas mesmas lojas mais fracas** — PCAR3
+- **Resumo:** SSS de -1,2%/-0,8% (desacelerou do +0,7% no 1T26, abaixo do +0% esperado pela MS) por disrupção operacional do início da recuperação extrajudicial; margem bruta +310bps YoY, a 30,5%; margem EBITDA ajustada +160bps, a 10,6% (parcialmente por créditos fiscais). Dívida líquida pro forma caiu 68% desde o protocolo inicial (de R$3,6bi para R$1,2bi), com alavancagem recuando de 3,9x para 1,3x. Homologação da recuperação extrajudicial esperada no 3T26.
+- **Por que importa:** ponto de inflexão de alavancagem é o principal driver da tese, mesmo com a operação ainda pressionada.
+- **Implicações:** monitorar velocidade de normalização das vendas mesmas lojas pós-RE frente ao ganho de margem estrutural; MS mantém Underweight por baixa visibilidade sobre R$14bi em contingências.
+- **Confiabilidade:** Alta/Primária — Confirmado (4 filings CVM do mesmo evento + cobertura MS)
+- **Fonte:** CVM/Companies Radar (4 filings) + MS LatAm Daily | 04/08 noite | cobertura: 2 fontes, mesmo evento
+- **Link:** http://url191.info.vincicompass.com/ls/click?upn=u001.dpddTz-2B73drNCbhC8MnqAMZZ0Y56RbYxl-2B-2FJKSqKjRcCF3qz-2Bd9eSXkPnHOurjE1SRObB47i18HxXsZQnAaIn58uI3bzSjWODh6E4RjVqjc-3DDT2h_ROYcHZmklH-2FI1tcanJkglElrmYdhj-2B2f7ah0r-2BvwRNGXwfffYnseVMx6AVt9Luth4KZdDb-2FGrw5HUwaw5WMwMVVPi7kJ7N2PTS3vTDXfbJnORb1jOdgc2rMXmRJAtdZ7VDPJDrZtkVQcJMkRyRUs2in00csUGFMSiQ-2F4cvUyrhB7m0Y5kHWjAhkUbVvH9iXyjQYMaQvgUISjvg0P0UgxYQ-3D-3D
+
+### Óleo & Gás
+
+**PetroRio — FCFE em tendência de alta, TP YE27 introduzido em R$56/ação** — PRIO3
+- **Resumo:** EBITDA estável QoQ, dentro do esperado; FCFE em tendência ascendente com dados operacionais de julho positivos, segundo a BBI. MS aponta FCF anualizado em ~20% yield; Citi descreve como "mais um resultado recorde", puxado por maior produção e melhores preços de petróleo.
+- **Por que importa:** geração de caixa segue validando a tese de retorno ao acionista no nome.
+- **Implicações:** expectativa de expansão de FCF orgânico no 2S26/2027 com diluição de capex; monitorar sinalização de remuneração ao acionista.
+- **Confiabilidade:** Alta/Primária — Confirmado
+- **Fonte:** Bradesco BBI Daily + MS LatAm Daily + Citi Earliest Bird | 04-05/08 | cobertura: 3 clippings
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/382aef70-386b-491a-b3e1-304d765a7db6
+
+**Petrobras pode estudar investir em GNL fora do Brasil em meio à discussão do "Gas Release"** — PETR4
+- **Resumo:** Em meio à discussão da Nova Lei do Gás/"Gas Release" (que obrigaria a Petrobras a vender parte da produção a concorrentes, com a ANP discutindo o tema em reunião na sexta-feira), a companhia avaliaria investir capex de GNL no exterior como resposta. BBI: "acreditamos que essa retórica é provavelmente retaliatória".
+- **Por que importa:** risco regulatório doméstico (desconcentração do mercado de gás) versus possível resposta estratégica da companhia.
+- **Implicações:** monitorar a decisão da ANP em 7/8; risco de desvio de capex para fora do Brasil caso a obrigatoriedade seja confirmada.
+- **Confiabilidade:** Alta — Análise/Rumor (fonte próxima à companhia, não confirmado oficialmente)
+- **Fonte:** Bradesco BBI Daily + Citi Earliest Bird (via Valor Econômico) | 04-05/08 | cobertura: 2 clippings
+- **Link:** https://valor.globo.com/empresas/noticia/2026/08/04/petrobras-diz-que-quer-resiliencia-e-cadeia-de-fornecedores-competitiva-em-nivel-mundial.ghtml
+
+### Tecnologia / Bens de Capital
+
+**Totvs cancela ações em tesouraria e lança novo buyback de até 30 milhões de ações** — TOTS3
+- **Resumo:** Aprovado cancelamento de 20 milhões de ações em tesouraria e lançamento de novo programa de recompra de até 30 milhões de ações (~5,3% do capital), válido até agosto/2027, após conclusão do programa anterior (lançado em fevereiro/2026).
+- **Por que importa:** sinal de confiança do management e disciplina de alocação de capital.
+- **Implicações:** suporte técnico ao papel via recompra; BBI também destaca o lançamento de um marketplace de crédito consignado via Techfin, positivo mas sem impacto em estimativas.
+- **Confiabilidade:** Alta — Confirmado (fato societário aprovado)
+- **Fonte:** Bradesco BBI Mkt Color + MS LatAm Daily + Bradesco BBI Daily (TMT) | 04-05/08 | cobertura: 3 clippings
+
+**Weg — leilão de baterias (BESS) atrai oferta recorde de projetos** — WEGE3
+- **Resumo:** EPE recebeu volume recorde de registros para os dois leilões de reserva de capacidade de armazenamento (6.091 projetos, 296,8GW); qualificação técnica prevista para 17/nov, leilões em 2 e 4/dez.
+- **Por que importa:** tema estrutural de eletrificação/armazenamento relevante para o portfólio da Weg.
+- **Implicações:** BBI classifica como "read-through positivo para a Weg", reforçando a visão de que o interesse em BESS está ganhando tração rapidamente — sem impacto em estimativas ou preço-alvo no momento.
+- **Confiabilidade:** Alta — Confirmado (dados EPE); Análise para o read-through
+- **Fonte:** Bradesco BBI Daily (Capital Goods) | 05/08 | cobertura: 1 clipping
+- **Link:** https://megawhat.uol.com.br/armazenamento/leilao-de-baterias-atrai-oferta-recorde-com-mais-de-6-mil-projetos/
+
+### Utilities
+
+**Eneva — Aneel autoriza início de operação comercial da UTE Azulão I** — ENEV3
+- **Resumo:** Aneel autorizou o início de operação comercial da usina em Silves (AM); o contrato de capacidade de 15 anos começa a valer nesta semana, garantindo R$278,3mn de receita fixa anual indexada à inflação.
+- **Por que importa:** nova fonte de receita contratada de longo prazo.
+- **Implicações:** positivo direto e imediato para o fluxo de caixa contratado da companhia.
+- **Confiabilidade:** Alta/Primária — Confirmado (autorização regulatória)
+- **Fonte:** Bradesco BBI Mkt Color + BTG Utilities Clipping | 04-05/08 | cobertura: 2 clippings
+
+**Taesa — ONS autoriza energização de projetos, +R$141,9mn de RAP** — TAEE11
+- **Resumo:** ONS autorizou a energização retroativa (a partir de 27/07) dos projetos Ananaí/Tangará; a RAP habilitada do projeto Ananaí sobe para R$168,7mn (97,3% do previsto em contrato).
+- **Por que importa:** evento direto e material — nova receita contratada entrando em operação.
+- **Implicações:** incremento marginal, mas confirmado, de receita anual regulada.
+- **Confiabilidade:** Alta — Confirmado (autorização ONS)
+- **Fonte:** BTG Utilities Clipping | 05/08 | cobertura: 1 clipping
+
+### Construção
+
+**Tenda — beat forte de 10% no 2T26, guidance de lucro elevado em 12,5%** — TEND3
+- **Resumo:** Resultado 10% acima do esperado pela BBI, com melhora de margem bruta como principal driver; companhia elevou o guidance de lucro líquido do ano em 12,5%.
+- **Por que importa:** revisão de guidance para cima é sinal forte de execução.
+- **Implicações:** revisar lucro líquido 2026E para cima; monitorar sustentabilidade da margem bruta nos próximos trimestres.
+- **Confiabilidade:** Alta — Confirmado
+- **Fonte:** Bradesco BBI Daily + CVM/Companies Radar (ITR) | 04-05/08 | cobertura: 2 fontes
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/93fdc833-d48e-49a9-9972-ce2c67ca6a8b
+
+### Malls
+
+**Iguatemi — resultado em linha, qualificação de portfólio funcionando** — IGTI11
+- **Resumo:** Vendas totais +4,6% YoY (R$6,59bi); aluguel/m² (SAR) +3,3%; taxa de ocupação de 96,9% (+0,5pp); vendas de lojistas +5% YoY; assinaturas relevantes no período (Dior no Iguatemi SP, expansão da Zara em Campinas, Carolina Herrera).
+- **Por que importa:** valida a tese de qualificação de portfólio após desinvestimentos recentes em ativos não-premium.
+- **Implicações:** reforça a resiliência de aluguel real acima da inflação; ainda há espaço para repricing adicional, dado o custo de ocupação de 10,8% sobre vendas.
+- **Confiabilidade:** Alta/Primária — Confirmado
+- **Fonte:** CVM/Companies Radar + Bradesco BBI Daily + MS LatAm Daily | 04-05/08 | cobertura: 3 fontes
+- **Link:** https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/19cb364f-6c6c-4767-a16e-6b7b1a1b2780
+
+### Telecom
+
+**TIM lança planos "TIM Fit" abaixo do nível de preço de Vivo e Claro** — TIMS3, VIVT3
+- **Resumo:** Novo plano mensal de 35GB por R$45 (abaixo do controle anterior de R$60); planos anuais passam a oferecer mais dados sem alteração de preço (35GB por R$30; 25GB por R$20).
+- **Por que importa:** sinaliza reversão do ciclo de repricing que o mercado vinha precificando para o setor.
+- **Implicações:** pressão sobre o ARPU de entrada; risco de resposta competitiva de Vivo e Claro reduzindo a visibilidade de upside de preço no setor — BBI classifica como negativo para o setor, sem alterar estimativas.
+- **Confiabilidade:** Alta — Confirmado (planos publicados); Análise (leitura do banco)
+- **Fonte:** Bradesco BBI Daily (TMT) | 04/08 | cobertura: 1 clipping
+- **Link:** https://bradescobbi.bluematrix.com/docs/html/43d31a41-8388-4e8b-8045-9892a8def0c1.html
+
+## 3. Menções secundárias
+
+- Ternium bate estimativas no 2T26 com guidance de 3T acima do esperado (peer siderúrgico) — https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/f3680e70-93ca-4aba-90ed-bf074a9c3cb8
+- GeoPark: hedge limitou crescimento de EBITDA no 2T26, TP YE27 de US$10,50 — https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/8ab66ed5-44af-4204-9072-21a960ce06ff
+- 3tentos: BBI classifica como "precificada para o fundo do poço" — https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/0ab153c5-bffa-49f1-9c12-7ff3312a72f3
+- Fenabrave de julho mostra retomada de licenciamento de caminhões/reboques, apoiada pelo programa "Move Brasil" — https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/0ceb5b91-0aa0-49dd-bc80-912eb6f84752
+- Preview 2T26 de aéreas: custo de combustível no pico, recuperação de yields amortece impacto — https://bradescobbi.bluematrix.com/links2/link/html/c3bb5c8d-db76-447f-be2a-b56698525f7b/a0671554-e3df-4a3f-a99f-0163955692f9
+- Cobre na LME perto da máxima histórica (~US$14.000/t) — cor de mercado, sem artigo específico
+- Operadoras pedem leilão de espectro para D2D/Starlink no Brasil — https://teletime.com.br/03/08/2026/d2d-leiloes/
+- Brasil concentra 49% da capacidade de data centers da América Latina, mas rede elétrica é apontada como gargalo (Moody's) — tema estrutural para o setor elétrico
+- Varejo farmacêutico brasileiro supera R$107bi em vendas — https://panoramafarmaceutico.com.br/varejo-farmaceutico-brasileiro-supera-r-107-bilhoes-em-vendas/
+- Setor de saúde deve gerar mais de R$537bi no Brasil — https://medicinasa.com.br/saude-537-bilhoes/
+- Farmácias de manipulação faturaram R$13,2bi — https://panoramafarmaceutico.com.br/farmacias-de-manipulacao-faturaram-r-132-bilhoes/
+- CSN protocola atualização de Formulário de Referência na CVM — conteúdo não extraído do PDF, sem confirmação do que mudou
+- Iguatemi: Fitch reafirma rating nacional 'AAA(bra)' — sem alteração de rating, cita posição de negócio forte e estrutura de capital conservadora
+- Aneel mantém processo de caducidade da concessão de distribuição da Enel SP, rejeitando pedido de perícia técnica — precedente regulatório para o setor de distribuição, Enel SP não é nome coberto
+- Bolsonaro promete extinguir imposto de exportação de petróleo se eleito — tema político-eleitoral, potencialmente relevante para Petrobras, condicional ao resultado da eleição
