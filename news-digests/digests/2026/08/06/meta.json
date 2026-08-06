@@ -1,0 +1,30 @@
+{
+  "date": "2026-08-06",
+  "runs": {
+    "incremental": {
+      "since": "2026-08-06T11:15:00Z",
+      "itemCount": 15,
+      "tickers": [
+        "AXIA3",
+        "EQTL3",
+        "CPLE3",
+        "EGIE3",
+        "AURE3",
+        "PETR4",
+        "BRAV3",
+        "MELI",
+        "TOTS3",
+        "BBDC4",
+        "KLBN11",
+        "SMFT3",
+        "CYRE3",
+        "JBSS3"
+      ],
+      "generatedAt": "2026-08-06T12:02:00.648Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
