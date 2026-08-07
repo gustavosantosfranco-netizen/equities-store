@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-07",
+  "runs": {
+    "incremental": {
+      "since": "2026-08-07T11:46:21Z",
+      "itemCount": 0,
+      "tickers": [
+        "RENT3",
+        "LOGG3"
+      ],
+      "generatedAt": "2026-08-07T11:53:43.871Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
