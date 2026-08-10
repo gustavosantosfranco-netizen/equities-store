@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-10",
+  "runs": {
+    "incremental": {
+      "since": "2026-08-10T11:15:00Z",
+      "itemCount": 2,
+      "tickers": [
+        "EQTL3",
+        "CPLE6",
+        "ENGI11"
+      ],
+      "generatedAt": "2026-08-10T11:53:46.669Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
