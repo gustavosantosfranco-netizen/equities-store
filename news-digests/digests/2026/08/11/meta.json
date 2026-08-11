@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-11",
+  "runs": {
+    "incremental": {
+      "since": "2026-08-11T11:46:51Z",
+      "itemCount": 0,
+      "tickers": [],
+      "generatedAt": "2026-08-11T11:49:10.857Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
+    }
+  }
+}
