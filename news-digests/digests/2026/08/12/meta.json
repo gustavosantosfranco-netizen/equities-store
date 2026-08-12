@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-12",
+  "runs": {
+    "full": {
+      "window": "12h",
+      "mailbox": "equitiesvc@gmail.com",
+      "recipients": [
+        "equities@vincicompass.com",
+        "mlins@vincicompass.com"
+      ],
+      "itemCount": 17,
+      "tickers": [
+        "IBOV",
+        "ITUB4",
+        "BPAC11",
+        "B3SA3",
+        "PAGS",
+        "RDOR3",
+        "HAPV3",
+        "QUAL3",
+        "EQTL3",
+        "ENGI11",
+        "CPFE3",
+        "CURY3",
+        "DIRR3",
+        "MOTV3",
+        "RAIL3",
+        "ECOR3",
+        "CSNA3",
+        "CMIN3",
+        "SUZB3",
+        "KLBN11",
+        "CSAN3",
+        "RAIZ4",
+        "WEGE3",
+        "VIVT3",
+        "TIMS3",
+        "JBSS3",
+        "MRFG3",
+        "BEEF3"
+      ],
+      "generatedAt": "2026-08-12T11:41:30.028Z",
+      "files": {
+        "md": "full.md",
+        "html": "full.html"
+      }
+    }
+  }
+}
