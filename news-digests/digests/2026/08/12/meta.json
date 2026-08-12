@@ -44,6 +44,20 @@
         "md": "full.md",
         "html": "full.html"
       }
+    },
+    "incremental": {
+      "since": "2026-08-12T11:41:14Z",
+      "itemCount": 2,
+      "tickers": [
+        "JBSS3",
+        "MRFG3",
+        "BEEF3"
+      ],
+      "generatedAt": "2026-08-12T11:50:59.041Z",
+      "files": {
+        "md": "incremental.md",
+        "html": "incremental.html"
+      }
     }
   }
 }
