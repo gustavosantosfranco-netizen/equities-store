@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-08-06T12:02:00.674Z",
+  "updatedAt": "2026-08-13T11:48:08.967Z",
   "digests": [
+    {
+      "date": "2026-08-13",
+      "path": "digests/2026/08/13",
+      "runs": [
+        "incremental"
+      ],
+      "updatedAt": "2026-08-13T11:48:08.967Z"
+    },
     {
       "date": "2026-08-06",
       "path": "digests/2026/08/06",
