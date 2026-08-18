@@ -1,0 +1,39 @@
+{
+  "company": "rede_dor",
+  "period": "2026Q2",
+  "readings": {
+    "primeira": {
+      "ticker": "RDOR3",
+      "consenso": "sell-side Itaú BBA (preview 2Q26, 21/jul/2026)",
+      "veredito": "ACIMA",
+      "revisaoLucro": {
+        "anoCorrente": "+3% a +6%",
+        "anoSubsequente": "+2% a +5%"
+      },
+      "linhasTese": [
+        "custo caixa hospitalar (reversão do material-médico)",
+        "sinistralidade da SulAmérica",
+        "taxa de ocupação abaixo da média histórica e do setor"
+      ],
+      "hipotesesEmAberto": [
+        "ocupação de 80,2% caiu o dobro do setor (ANAHP): é share, ativo específico operando mal, ou calendário?",
+        "G&A hospitalar +29,6% a/a absorveu todo o ganho de margem bruta: ramp-up da Atlântica D'Or ou novo patamar de estrutura?",
+        "melhora de 300bps na sinistralidade é gestão de rede ou provisionamento menor? só confirma com os dados da ANS",
+        "net adds negativos (-14,7 mil) são limpeza deliberada de carteira ou perda competitiva para a Bradesco Saúde (+100 mil vidas)?"
+      ],
+      "perguntasParaOCall": [
+        "run-rate do custo caixa hospitalar no 2S: os 161bps de queda a/a se sustentam?",
+        "abertura do G&A hospitalar e quanto é despesa de abertura de unidades",
+        "nível normalizado da alíquota efetiva depois do 30,5% do 1T26 e do 23,1% deste trimestre",
+        "trajetória das provisões cíveis (estoque subiu R$140mn q/q, para R$3.360mn)"
+      ],
+      "resolvidoDoTrimestreAnterior": [
+        "alíquota de 30,5% do 1T26 era timing, não patamar: voltou a 23,1%",
+        "EBITDA hospitalar do 2T26 é limpo, sem o R$272mn de reavaliação que inflou o 1T26",
+        "conversão de caixa reverteu: 84,9% vs. 55,3% no 1T26"
+      ],
+      "generatedAt": "2026-08-18T04:39:40.968Z",
+      "file": "primeira.md"
+    }
+  }
+}
