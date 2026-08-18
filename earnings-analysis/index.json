@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:51:25.383Z",
+  "updatedAt": "2026-08-18T21:54:29.534Z",
   "records": [
     {
       "company": "b3",
@@ -36,6 +36,15 @@
         "primeira"
       ],
       "updatedAt": "2026-07-15T23:19:12.562Z"
+    },
+    {
+      "company": "stone",
+      "period": "2026Q1",
+      "path": "stone/2026Q1",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T21:54:29.534Z"
     },
     {
       "company": "totvs",

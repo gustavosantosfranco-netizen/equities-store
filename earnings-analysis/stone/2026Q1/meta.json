@@ -1,0 +1,33 @@
+{
+  "company": "stone",
+  "period": "2026Q1",
+  "readings": {
+    "primeira": {
+      "ticker": "STNE",
+      "consenso": "sell-side Itaú BBA (preview 14-abr-2026)",
+      "veredito": "ABAIXO",
+      "revisaoLucro": {
+        "anoCorrente": "-3% a -6%",
+        "anoSubsequente": "-5% a -10%"
+      },
+      "linhasTese": [
+        "lucro bruto ajustado estavel a/a (-0,2%)",
+        "provisoes de credito 54% acima do esperado",
+        "Card TPV -3,3% a/a contra industria +8,3% (Abecs)"
+      ],
+      "hipotesesEmAberto": [
+        "a cobertura de 229% (de 263,6%) subprovisiona a deterioracao?",
+        "o beat de opex (comerciais -6,6%) e economia recorrente do corte de quadro ou timing de investimento em distribuicao?",
+        "aliquota efetiva de 14,3% e novo patamar ou efeito do diferido de CSLL?"
+      ],
+      "perguntasParaOCall": [
+        "cost of risk de regime e desempenho das safras 2025",
+        "por que a base de clientes de pagamentos MSMB e de banking deixou de ser aberta no mesmo trimestre em que o TPV de cartao cai",
+        "quanto do corte de quadro vira economia recorrente no 2T26",
+        "programa de recompra depois do dividendo extraordinario de R$3,08bn"
+      ],
+      "generatedAt": "2026-08-18T21:54:29.532Z",
+      "file": "primeira.md"
+    }
+  }
+}
