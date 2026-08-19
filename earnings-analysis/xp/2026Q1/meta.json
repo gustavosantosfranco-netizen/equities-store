@@ -1,0 +1,34 @@
+{
+  "company": "xp",
+  "period": "2026Q1",
+  "readings": {
+    "primeira": {
+      "ticker": "XP",
+      "consenso": "sell-side Itaú BBA",
+      "veredito": "ABAIXO",
+      "revisaoLucro": {
+        "anoCorrente": "-4% a -7%",
+        "anoSubsequente": "-5% a -10%"
+      },
+      "linhasTese": [
+        "monetização de renda fixa (0,68% anualizada vs. 1,00% no 1T25)",
+        "captação líquida total e de varejo",
+        "alavancagem operacional (EBITDA +4,2% a/a com receita líquida +8,9%)"
+      ],
+      "hipotesesEmAberto": [
+        "a queda da monetização de renda fixa é preço/produto (COEs e estruturados) e permanente, ou duration curta que se recompõe?",
+        "as comissões upfront do FGC (R$120-160mn estimados pelo Itaú BBA) escorregaram para o 2T26 ou não existirão?",
+        "reclassificação: quanto dos R$224mn de Other revenue foi para Other Retail vs. Wholesale?"
+      ],
+      "perguntasParaOCall": [
+        "entrada e alocação dos cerca de R$29bn do FGC",
+        "novo nível de take rate de renda fixa",
+        "saída líquida de cerca de R$5bn de institucional",
+        "run-rate de SG&A com quadro +13% e bônus +32% a/a",
+        "ritmo de recompra e trajetória do Basileia rumo ao alvo de 16-19%"
+      ],
+      "generatedAt": "2026-08-18T21:49:48.972Z",
+      "file": "primeira.md"
+    }
+  }
+}

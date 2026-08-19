@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:19:12.562Z",
+  "updatedAt": "2026-08-18T21:54:29.534Z",
   "records": [
     {
       "company": "b3",
@@ -11,6 +11,24 @@
       "updatedAt": "2026-07-14T20:42:26.000Z"
     },
     {
+      "company": "hapvida",
+      "period": "2025Q4",
+      "path": "hapvida/2025Q4",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T21:49:40.974Z"
+    },
+    {
+      "company": "rede_dor",
+      "period": "2026Q2",
+      "path": "rede_dor/2026Q2",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T04:39:40.984Z"
+    },
+    {
       "company": "rede_dor",
       "period": "2026Q1",
       "path": "rede_dor/2026Q1",
@@ -18,6 +36,33 @@
         "primeira"
       ],
       "updatedAt": "2026-07-15T23:19:12.562Z"
+    },
+    {
+      "company": "stone",
+      "period": "2026Q1",
+      "path": "stone/2026Q1",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T21:54:29.534Z"
+    },
+    {
+      "company": "totvs",
+      "period": "2026Q2",
+      "path": "totvs/2026Q2",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T21:51:25.383Z"
+    },
+    {
+      "company": "xp",
+      "period": "2026Q1",
+      "path": "xp/2026Q1",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-18T21:49:48.974Z"
     }
   ]
 }

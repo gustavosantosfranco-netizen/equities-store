@@ -1,0 +1,30 @@
+{
+  "company": "totvs",
+  "period": "2026Q2",
+  "readings": {
+    "primeira": {
+      "ticker": "TOTS3",
+      "consenso": "sell-side Itaú BBA (preview 2Q26, 16/jul/2026)",
+      "veredito": "EM LINHA no consolidado (acima ajustando a base), ABAIXO na adição líquida de ARR",
+      "revisaoLucro": {
+        "anoCorrente": "+3% a +6%",
+        "anoSubsequente": "estável a -3%"
+      },
+      "linhasTese": [
+        "adição líquida de ARR e taxa de renovação",
+        "margem EBITDA / despesa comercial"
+      ],
+      "hipotesesEmAberto": [
+        "retenção de 97,3% é ciclo de crédito ou perda de base para competição/AI?",
+        "alíquota de 9,9% é distribuição de JSCP dentro do ano ou novo patamar com Lei do Bem?"
+      ],
+      "perguntasParaOCall": [
+        "o que recoloca a taxa de renovação em 98%",
+        "os R$13mn de provisão da Techfin encerram o ajuste de safras",
+        "série de ARR e margem por portfólio após a consolidação do reporte"
+      ],
+      "generatedAt": "2026-08-18T21:51:25.381Z",
+      "file": "primeira.md"
+    }
+  }
+}

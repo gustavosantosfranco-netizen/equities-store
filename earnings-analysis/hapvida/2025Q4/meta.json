@@ -1,0 +1,32 @@
+{
+  "company": "hapvida",
+  "period": "2025Q4",
+  "readings": {
+    "primeira": {
+      "ticker": "HAPV3",
+      "consenso": "sell-side Itaú BBA",
+      "veredito": "ABAIXO",
+      "revisaoLucro": {
+        "anoCorrente": "-30% a -50%",
+        "anoSubsequente": "-20% a -35%"
+      },
+      "linhasTese": [
+        "sinistralidade caixa",
+        "adição líquida de vidas",
+        "geração de caixa/dívida líquida"
+      ],
+      "hipotesesEmAberto": [
+        "a perda de 140 mil vidas é limpeza de carteira ou share perdido para o Bronze da Amil em SP?",
+        "os tributos de R$169mn (5,8x a/a) são multas da ANS e se repetem?",
+        "quanto dos 449bps de sinistralidade é utilização por vida vs. custo fixo das unidades em ramp-up?"
+      ],
+      "perguntasParaOCall": [
+        "ritmo de adições líquidas no 1T26",
+        "a expansão de rede segue no ritmo de 2025 (capex 2x o modelado)?",
+        "quando a decisão do STF sobre judicialização aparece nos depósitos judiciais"
+      ],
+      "generatedAt": "2026-08-18T21:49:40.955Z",
+      "file": "primeira.md"
+    }
+  }
+}
