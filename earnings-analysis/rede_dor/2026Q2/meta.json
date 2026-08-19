@@ -4,35 +4,37 @@
   "readings": {
     "primeira": {
       "ticker": "RDOR3",
-      "consenso": "sell-side Itaú BBA (preview 2Q26, 21/jul/2026)",
+      "consenso": "sell-side (Santander, UBS, JPM, Bradesco; Itau BBA e BTG pelas notas) + Bloomberg como reforco",
       "veredito": "ACIMA",
       "revisaoLucro": {
-        "anoCorrente": "+3% a +6%",
-        "anoSubsequente": "+2% a +5%"
+        "anoCorrente": "+2% a +4%",
+        "anoSubsequente": "+1% a +3%"
       },
       "linhasTese": [
-        "custo caixa hospitalar (reversão do material-médico)",
-        "sinistralidade da SulAmérica",
-        "taxa de ocupação abaixo da média histórica e do setor"
+        "custo caixa hospitalar / material-medico",
+        "sinistralidade da SulAmerica",
+        "taxa de ocupacao"
       ],
       "hipotesesEmAberto": [
-        "ocupação de 80,2% caiu o dobro do setor (ANAHP): é share, ativo específico operando mal, ou calendário?",
-        "G&A hospitalar +29,6% a/a absorveu todo o ganho de margem bruta: ramp-up da Atlântica D'Or ou novo patamar de estrutura?",
-        "melhora de 300bps na sinistralidade é gestão de rede ou provisionamento menor? só confirma com os dados da ANS",
-        "net adds negativos (-14,7 mil) são limpeza deliberada de carteira ou perda competitiva para a Bradesco Saúde (+100 mil vidas)?"
+        "quanto da diluicao de material-medico e efeito de base da consolidacao da Mederi no 2T25 (nao dimensionado)",
+        "G&A hospitalar +29,6% a/a e ramp-up da Atlantica ou novo patamar de estrutura",
+        "quanto da melhora de sinistralidade e gestao e quanto e provisionamento (IBNR nao divulgado)",
+        "ocupacao caiu o dobro do setor: descredenciamento deliberado de dois planos de autogestao, perda de share, ou calendario"
       ],
       "perguntasParaOCall": [
-        "run-rate do custo caixa hospitalar no 2S: os 161bps de queda a/a se sustentam?",
-        "abertura do G&A hospitalar e quanto é despesa de abertura de unidades",
-        "nível normalizado da alíquota efetiva depois do 30,5% do 1T26 e do 23,1% deste trimestre",
-        "trajetória das provisões cíveis (estoque subiu R$140mn q/q, para R$3.360mn)"
+        "tamanho do efeito Mederi na linha de material-medico",
+        "pipeline de leitos segue no prazo apos apenas 110 adicoes no trimestre e 183 em doze meses (vs. 522 no ano anterior)",
+        "run-rate do G&A hospitalar no 2S",
+        "sustentabilidade da sinistralidade com base de comparacao mais dura no 2S (3T25 80,6% e 4T25 76,4%)"
       ],
-      "resolvidoDoTrimestreAnterior": [
-        "alíquota de 30,5% do 1T26 era timing, não patamar: voltou a 23,1%",
-        "EBITDA hospitalar do 2T26 é limpo, sem o R$272mn de reavaliação que inflou o 1T26",
-        "conversão de caixa reverteu: 84,9% vs. 55,3% no 1T26"
+      "notas": [
+        "Ocupacao 80,2%: 2,7 p.p. abaixo da media historica de um 2T (82,9%, serie 2015-2025 da Companhia). No 1T26 o gap era de 80bps, ou seja, a hipotese de sazonalidade do trimestre anterior nao se sustentou.",
+        "Peers 2T26 verificados no Data Lab: Bradesco Saude 86,2% de sinistros retidos sobre premios ganhos (+150bps a/a) e sinistralidade consolidada Bradsaude 83,8% (+170bps); Hapvida sinistralidade caixa 75,2% (+130bps a/a, +300bps q/q); Porto Saude saude+odonto 76,9% (-40bps).",
+        "Atlantica D'Or: a Bradsaude reporta lucro de R$64mn no 2T26 (+312% a/a), o que explica minoritarios 64,9% acima do esperado.",
+        "AxE: a coluna 2Q26A veio vazia; actuals reconstituidos a partir dos deltas A/E, y/y e q/q e conferidos contra o ITR e as notas de Itau BBA e BTG. A linha 78 (lucro antes de minoritarios) nao reconcilia com as linhas 81/83 no actual; a regua usada foi a linha 83 (R$1.158,7mn), que confere com o BTG.",
+        "Alavancagem 1,71x (de 1,75x) apos R$620mn de recompra; prazo de recebiveis -2 dias, para 110 (BTG)."
       ],
-      "generatedAt": "2026-08-18T04:39:40.968Z",
+      "generatedAt": "2026-08-19T14:47:41.009Z",
       "file": "primeira.md"
     }
   }
