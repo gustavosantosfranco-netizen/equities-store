@@ -1,0 +1,33 @@
+{
+  "company": "hapvida",
+  "period": "2026Q2",
+  "readings": {
+    "primeira": {
+      "ticker": "HAPV3",
+      "consenso": "sell-side (Santander, UBS, JPM, Bradesco; BTG à parte) + Bloomberg como reforço",
+      "veredito": "ABAIXO",
+      "revisaoLucro": {
+        "anoCorrente": "EBITDA -15% a -25%; lucro ajustado para perto de zero (corte acima de 50%)",
+        "anoSubsequente": "EBITDA -25% a -40%; lucro negativo"
+      },
+      "linhasTese": [
+        "judicializacao (provisao civel + deposito judicial)",
+        "sinistralidade caixa",
+        "adicao liquida de vidas",
+        "programa das 947 mil vidas"
+      ],
+      "hipotesesEmAberto": [
+        "o estreitamento do gap custo por vida x ticket (de 5,5pp no 4T25 para cerca de 2pp) se sustenta no 3T?",
+        "as provisoes civeis de R$233mn sao novo patamar ou pico? cobertura sobre depositos em 91%, pior em 2 anos",
+        "o ticket parado q/q (+0,3%) e mix ou perda de poder de preco?"
+      ],
+      "perguntasParaOCall": [
+        "quando a cobertura das provisoes sobre depositos judiciais volta a 100% e qual o run-rate de novos bloqueios no 2S26",
+        "das 947 mil vidas em revisao, quantas renegociam e quanto de custo fixo a Companhia consegue tirar junto",
+        "o IGR subiu de 39,2 (4T25) para 45,5 (2T26) - ate quando a multa da ANS fica acima de R$100mn/tri"
+      ],
+      "generatedAt": "2026-08-20T13:43:08.525Z",
+      "file": "primeira.md"
+    }
+  }
+}

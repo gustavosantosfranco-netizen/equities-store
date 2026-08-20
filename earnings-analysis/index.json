@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:47:41.020Z",
+  "updatedAt": "2026-08-20T13:43:08.528Z",
   "records": [
     {
       "company": "b3",
@@ -9,6 +9,15 @@
         "primeira"
       ],
       "updatedAt": "2026-07-14T20:42:26.000Z"
+    },
+    {
+      "company": "hapvida",
+      "period": "2026Q2",
+      "path": "hapvida/2026Q2",
+      "readings": [
+        "primeira"
+      ],
+      "updatedAt": "2026-08-20T13:43:08.527Z"
     },
     {
       "company": "hapvida",
